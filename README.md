@@ -34,9 +34,28 @@ When we signed Tiana up for the program, we had no idea what to expect. Even wit
 
 I had joined a paediatric stroke survivor support group called Little Stroke Warriors (LSW). To celebrate Tiana's stroke anniversary, we posted the story of her stroke and progress with the AMBP in a fundraiser for RCH, and I shared it with the group. Another LSW parent, Anh, soon reached out to me, asking about the string and bridge reversal that we had done. Her daughter Tammy also suffered from left-side weakness, and they were planning for her to start learning to play a reversed cello.
 
-Anh is an engineer, and she suggested that I 3D scan and 3D print a reversed chin rest for Tiana's violin. I considered it, but I was unsure of where to go, or what sort of costs it would involve. How much would I need to spend on equipment, and how much time would I need to spending learning how to do it? I hesitated, until Anh made a post herself, sharing photos of a cello bow handle with adjustable angles that she had designed and printed herself. Inspired, I started looking into 3D printing options, and I was surprised to discover that the City of Melbourne had a number of makerspaces that had all the equipment I would need, all free to use. I booked myself in for a safety induction, and with the help of the makerspace staff, I had soon scanned a chin rest, mirrored it in a slicer, and had my very first 3D print going.
+Anh is an engineer, and she suggested that I 3D scan and 3D print a reversed chin rest for Tiana's violin. I considered it, but I was unsure of where to go, or what sort of costs it would involve. How much would I need to spend on equipment, and how much time would I need to spending learning how to do it? I hesitated, until Anh made a post herself, sharing photos of a cello bow handle with adjustable angles that she had designed and printed herself. Inspired, I started looking into 3D printing options, and I was surprised to discover that the City of Melbourne had a number of makerspaces that had all the equipment I would need, all free to use.
 
-## First failure
+In October 2023, I booked myself in for a safety induction at Kathleen Syme Library, and with the help of the makerspace staff, I had soon 3D scanned a chin rest, mirrored it in a slicer, and had my very first 3D print going.
 
-To minimise the amount of support material, I had printed the chin rest with the top surface, the one that would be in contact with Tiana's skin, facing down. I had no idea that after removing supports, there would be such a rough surface on the bottom. So, I spent several hours trying to sand down the surface, so that it would be comfortable to use. Then, since the 3D scanner had not been able to pick up the holes for the mounting hardware, I spent some more hours trying to drill into it. I did eventually manage to get through, but it had taken me almost a whole day to complete.
+## Chin rest - to allow Tiana to play comfortably
 
+To minimise the amount of support material, I had printed the chin rest with the top surface, the one that would be in contact with Tiana's skin, facing down. I had no idea that after removing supports, there would be such a rough surface on the bottom. So, I spent several hours trying to sand down the surface to make it comfortable to use. I got it to the point where I didn't think it would cut into her skin, but it was still extremely rough and I was somewhat disappointed with the result. 
+
+Then, since the 3D scanner had not been able to pick up the holes for the mounting hardware, I had to drill some holes into it. I had thought it would be as simple as drilling into wood, but I soon realised that I was mistaken. Polylactic acid (PLA), the material most commonly used in 3D printing, is very hard and resistant to drilling. The heat generated from drilling can also melt the plastic, causing it to stick to the drill bit. I eventually managed to drill two small holes for the mounting screws, but it took so much longer than I had expected.
+
+After spending most of the day post-processing my first prototype, I was finally able to attach it to Tiana's violin, just in time to pick her up from school and take her to her violin lesson with Hilary. I mentioned the roughness of the surface, and Hilary suggested that she could cover it with a cloth facemask. It worked! Tiana was much more comfortable with it than she had been. I planned to repeat the process and create several different styles for her to try.
+
+Lessons learned:
+* Orient surfaces as close to vertical as possible to give them a smooth finish. 
+* If you need holes, include them in the design of the model before printing. 
+
+I ended up learning to use [Tinkercad](https://www.tinkercad.com/) so I could add holes to the chin rest before printing. I also took the opportunity to add Tiana's engraved name to the design. After scanning and printing several different chinrests, I was finally able to create one that was comfortable for Tiana to use, and looked nice enough for her to perform with.
+
+## Bow guide - to allow Tiana to setup independently
+
+The chopstick and rubber bands had been working great to help Tiana keep her bow in position. They had to be installed and removed each time Tiana played the violin, since they wouldn't fit as fitted in the case. Rubber bands would often fly off during the process, and it was impossible to install without using two hands. Tiana needed someone else to do it for her each time.
+
+Anthea from the AMBP had kindly given us a Horace bow guide to try. It has two rails, made to help students keep their bow perfectly straight, perpendicular to the strings. This was something that was too difficult at the time for Tiana with her affected wrist. Tiana just needed something to help support the weight of the bow and stop it from sliding down towards the neck. Getting the perfect angle was not important just yet. So we had kept the bow guide aside, and had been using the chopstick instead.
+
+With access to the equipment in the makerspace, I thought that I could remove one rail from the bow guide so that it would allow for some imprecision but still support the bow's weight.  
