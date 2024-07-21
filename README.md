@@ -50,12 +50,12 @@ Lessons learned:
 * Orient surfaces as close to vertical as possible to give them a smooth finish. 
 * If you need holes, include them in the design of the model before printing. 
 
-I ended up learning to use [Tinkercad](https://www.tinkercad.com/) so I could add holes to the chin rest before printing. I also took the opportunity to add Tiana's engraved name to the design. After scanning and printing several different chinrests, I was finally able to create one that was comfortable for Tiana to use, and looked nice enough for her to perform with.
+I ended up learning to use [Tinkercad](https://www.tinkercad.com/) so I could add holes to the chin rest before printing. I also took the opportunity to add Tiana's engraved name to the design. After scanning and printing several different chin rests, I was finally able to create one that was comfortable for Tiana to use, and looked nice enough for her to perform with.
 
 ## Bow guide - to allow Tiana to setup independently
 
 The chopstick and rubber bands had been working great to help Tiana keep her bow in position. They had to be installed and removed each time Tiana played the violin, since they wouldn't fit as fitted in the case. Rubber bands would often fly off during the process, and it was impossible to install without using two hands. Tiana needed someone else to do it for her each time.
 
-Anthea from the AMBP had kindly given us a Horace bow guide to try. It has two rails, made to help students keep their bow perfectly straight, perpendicular to the strings. This was something that was too difficult at the time for Tiana with her affected wrist. Tiana just needed something to help support the weight of the bow and stop it from sliding down towards the neck. Getting the perfect angle was not important just yet. So we had kept the bow guide aside, and had been using the chopstick instead.
+Anthea from the AMBP had kindly given us a Horace bow guide to try. It has two parallel rails, forcing violinists to keep their bow perfectly straight, perpendicular to the strings. This was something that was too difficult at the time for Tiana with her affected wrist. Tiana just needed something to help support the weight of the bow and stop it from sliding down towards the neck. Getting the perfect angle was not important just yet. So we had kept the bow guide aside, and had been using the chopstick instead.
 
 With access to the equipment in the makerspace, I thought that I could remove one rail from the bow guide so that it would allow for some imprecision but still support the bow's weight.  
