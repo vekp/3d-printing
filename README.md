@@ -6,7 +6,15 @@
 
 In mid-2022, my daughter Tiana, 10 years old at the time, suffered a severe stroke caused when an arteriovenous malformation (AVM) in her brain ruptured. She was hospitalised at the Royal Children's Hospital (RCH), and survived a complex 11-hour operation where her AVM was removed. Although the surgery was a huge success, the stroke had taken away all of Tiana's independence in an instant. The entire left side of her body was completely paralysed, leaving her unable to walk, sit, eat, drink, smile, or even turn her head. For 2.5 months, I stayed with her at RCH as, one by one, she learned to do all of those things again.
 
+
+
 During our stay, I had my first experience with 3D printing. I occasionally visited the Spiritual Care centre, where I met Paul, the coordinator. Paul is a 3D printing enthusiast, and his office was decorated with an assortment of sensory toys, lithophanes of his family and other items that he had 3D printed himself. When I introduced Tiana to him, he kindly gave her an articulating crystal dragon. I couldn’t figure out how it had been assembled, until Paul explained how the nature of additive 3D printing in layers from the bottom up allows for the creation of permanently interlocked pieces - something difficult to achieve using traditional manufacturing methods. I was intrigued by the possibilities.
+
+
+<figure>
+    <img src="assets/img/dragon.jpg" alt="A blue and purple 3D printed articulating crystal dragon">
+    <figcaption>3D printed articulated Crystal Dragon gifted to Tiana during her stay at RCH
+</figure>
 
 Music has always been important to Tiana. My mother-in-law is a piano teacher, and has been teaching Tiana online from Japan for years. Tiana had also been playing violin since grade 2 with her violin teacher Hilary. We were fortunate to be involved in the music therapy program at RCH, and Tiana always looked forward to her twice-weekly sessions. Her music therapist Jo even allowed us to borrow a keyboard so Tiana could play anytime in her room. Although I had to help by playing the left hand parts for her, it meant so much for her to be able to continue with it during her stay.
 
@@ -58,4 +66,4 @@ The chopstick and rubber bands had been working great to help Tiana keep her bow
 
 Anthea from the AMBP had kindly given us a Horace bow guide to try. It has two parallel rails, forcing violinists to keep their bow perfectly straight, perpendicular to the strings. This was something that was too difficult at the time for Tiana with her affected wrist. Tiana just needed something to help support the weight of the bow and stop it from sliding down towards the neck. Getting the perfect angle was not important just yet. So we had kept the bow guide aside, and had been using the chopstick instead.
 
-With access to the equipment in the makerspace, I thought that I could remove one rail from the bow guide so that it would allow for some imprecision but still support the bow's weight.  
+With access to the equipment in the makerspace, I thought that I could remove one rail from the bow guide so that it would allow for some imprecision but still support the bow's weight. 
