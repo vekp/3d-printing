@@ -13,7 +13,7 @@ During our stay, I had my first experience with 3D printing. I occasionally visi
 
 <figure>
     <img src="assets/img/dragon.jpg" alt="A blue and purple 3D printed articulating crystal dragon">
-    <figcaption>3D printed articulated Crystal Dragon gifted to Tiana during her stay at RCH
+    <figcaption>3D printed articulated Crystal Dragon gifted to Tiana during her stay at RCH</figcaption>
 </figure>
 
 Music has always been important to Tiana. My mother-in-law is a piano teacher, and has been teaching Tiana online from Japan for years. Tiana had also been playing violin since grade 2 with her violin teacher Hilary. We were fortunate to be involved in the music therapy program at RCH, and Tiana always looked forward to her twice-weekly sessions. Her music therapist Jo even allowed us to borrow a keyboard so Tiana could play anytime in her room. Although I had to help by playing the left hand parts for her, it meant so much for her to be able to continue with it during her stay.
