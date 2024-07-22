@@ -30,9 +30,9 @@ With the support of her therapists and Tiana's perseverance, she gradually began
 </figure>
 
 
+https://github.com/user-attachments/assets/a3c3fc26-2566-4bc0-b5cb-0bc95da6c40d
 
-
-https://github.com/user-attachments/assets/a3c3fc26-2566-4bc0-b5cb-0bc95da6c40d  
+[Full video](https://www.youtube.com/watch?v=N46noUIJXD8)  
 One of our proudest moments, Tiana leaving hospital to the cheers of her therapists and Kelpie Ward staff.
 
 
