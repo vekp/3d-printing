@@ -38,8 +38,7 @@ With the support of her therapists and Tiana's perseverance, she gradually began
 
 
 
-[![YouTube](http://i.ytimg.com/vi/cnujGcSmAjI/hqdefault.jpg)](https://www.youtube.com/watch?v=cnujGcSmAjI)
-
+[![YouTube](http://i.ytimg.com/vi/N46noUIJXD8/hqdefault.jpg)](https://www.youtube.com/watch?v=N46noUIJXD8)
 
 
 https://vekp.github.io/3d-printing/assets/vid/discharge.mov
