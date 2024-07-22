@@ -22,7 +22,7 @@ When it happened to Tiana, that fear had come true, all too soon. We were shocke
 
 For 2.5 months, I stayed with her at RCH, through her recovery from surgery and the beginning of her rehabilitation. The incredible positivity of the staff there was overwhelming, and we eventually stopped grieving our losses and learnt how important it was to stay optimistic, celebrate all of Tiana's achievements, big and small, and just focus on hitting the next goal.
 
-With the support of her therapists and Tiana's perseverance, she gradually began to regain movement in her left side. Almost every day, she amazed us with some new muscle movement. Best of all, we got to see her one-sided smile get bigger every day.
+With the support of her therapists and Tiana's perseverance, she gradually began to regain movement in her left side. Almost every day, she amazed us with some new muscle movement. Best of all, we got to see her initially one-sided smile get bigger and better with each day that passed.
 
 <figure>
     <img src="assets/img/smile.jpg" alt="Girl smiling"/>
