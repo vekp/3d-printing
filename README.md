@@ -36,6 +36,9 @@ With the support of her therapists and Tiana's perseverance, she gradually began
     <figcaption>One of our proudest moments, Tiana leaving hospital to the cheers of her therapists and Kelpie Ward staff.</figcaption>
 </figure>
 
+
+https://vekp.github.io/3d-printing/assets/vid/discharge.mov
+
 I had my first experience with 3D printing at RCH. I occasionally visited the Spiritual Care centre, where I met Paul, the coordinator. Paul is a 3D printing enthusiast, and his office was decorated with an assortment of sensory toys, lithophanes of his family and other items that he had 3D printed himself. When I introduced Tiana to him, he kindly gave her an articulating crystal dragon. I couldn’t figure out how it had been assembled, until Paul explained how the nature of additive 3D printing in layers from the bottom up allows for the creation of permanently interlocked pieces - something difficult to achieve using traditional manufacturing methods. I was intrigued by the possibilities.
 
 
