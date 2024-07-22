@@ -31,19 +31,11 @@ With the support of her therapists and Tiana's perseverance, she gradually began
 
 
 
-<figure>
-    <img src="assets/img/discharge_day.jpg" alt="Photo of girl holding balloon walking down corridor lined https://github.com/vekp/3d-printing/blob/main/README.mdwith hospital staff"/>
-    <figcaption>One of our proudest moments, Tiana leaving hospital to the cheers of her therapists and Kelpie Ward staff.</figcaption>
-</figure>
+
+https://github.com/user-attachments/assets/a3c3fc26-2566-4bc0-b5cb-0bc95da6c40d  
+One of our proudest moments, Tiana leaving hospital to the cheers of her therapists and Kelpie Ward staff.
 
 
-
-
-https://github.com/user-attachments/assets/a3c3fc26-2566-4bc0-b5cb-0bc95da6c40d
-
-
-
-<video src="assets/vid/discharge.mov">
 
 
 
