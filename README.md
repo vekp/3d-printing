@@ -49,6 +49,11 @@ I had my first experience with 3D printing at RCH. I occasionally visited the Sp
 
 Music has always been important to Tiana. My mother-in-law is a piano teacher, and has been teaching Tiana online from Japan for years. Tiana had also been playing violin since grade 2 with her violin teacher Hilary. We were fortunate to be involved in the music therapy program at RCH, and Tiana always looked forward to her twice-weekly sessions. Her music therapist Jo even allowed us to borrow a keyboard so Tiana could play anytime in her room. Although I had to help by playing the left hand parts for her, it meant so much for her to be able to continue with it during her stay.
 
+<figure>
+    <img src="assets/img/music_therapy.png" alt="Five people playing various musical instruments"/>
+    <figcaption>Jamming during a music therapy session</figcaption>
+</figure>
+
 The music therapy room was full of instruments for us to try, including a banana keyboard. Having such a variety of instruments available was great in getting Tiana to start using her left hand again to create music.
 
 Although Tiana was able to walk after a few months, it is often hardest to recover movement in the fingers of the affected side following a stroke. So we had no idea whether she would ever be able to play or even hold the violin again, with the amount of strength and dexterity required in the fingers of the left hand. 
