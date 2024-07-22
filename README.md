@@ -2,18 +2,46 @@
 
 [Thingiverse profile](https://www.thingiverse.com/vekp)
 
-## RCH
+## Tiana's stroke
 
-In mid-2022, my daughter Tiana, 10 years old at the time, suffered a severe stroke caused when an arteriovenous malformation (AVM) in her brain ruptured. She was hospitalised at the Royal Children's Hospital (RCH), and survived a complex 11-hour operation where her AVM was removed. Although the surgery was a huge success, the stroke had taken away all of Tiana's independence in an instant. The entire left side of her body was completely paralysed, leaving her unable to walk, sit, eat, drink, smile, or even turn her head. For 2.5 months, I stayed with her at RCH as, one by one, she learned to do all of those things again.
+<figure>
+    <img src="assets/img/family_before_stroke.jpg" alt="A photo of a family of four"/>
+    <figcaption>Our family, celebrating Tiana's 10th birthday in early 2022. Clockwise from top: Vincent, Roland, Tiana, Sayaka.</figcaption>
+</figure>
 
+On June 6, 2022, our daughter Tiana, 10 years old at the time, suffered a severe stroke when an arteriovenous malformation (AVM) in her brain ruptured. She was hospitalised at the Royal Children's Hospital (RCH), and survived a complex 11-hour operation where her AVM was removed. Although the surgery was a huge success, the stroke had taken away all of Tiana's independence in an instant. The entire left side of her body was completely paralysed, leaving her unable to walk, sit, eat, drink, smile, or even turn her head. 
 
+<figure>
+    <img src="assets/img/picu.jpg" alt="Girl lying in hospital bed"/>
+    <figcaption>Tiana recovering in PICU after major brain surgery.</figcaption>
+</figure>
 
-During our stay, I had my first experience with 3D printing. I occasionally visited the Spiritual Care centre, where I met Paul, the coordinator. Paul is a 3D printing enthusiast, and his office was decorated with an assortment of sensory toys, lithophanes of his family and other items that he had 3D printed himself. When I introduced Tiana to him, he kindly gave her an articulating crystal dragon. I couldn’t figure out how it had been assembled, until Paul explained how the nature of additive 3D printing in layers from the bottom up allows for the creation of permanently interlocked pieces - something difficult to achieve using traditional manufacturing methods. I was intrigued by the possibilities.
+We had been aware of Tiana's AVM since 2 years prior, and had known that there was a small chance that it could rupture. However, there are many people who live their whole lives with unruptured AVMs - some may never even be aware that they have them - and we had hoped that Tiana would be lucky enough to be one of them. We were terrified of what it would mean if it did rupture, and spent many nights fearing the worst.
+
+When it happened to Tiana, that fear had come true, all too soon. We were shocked and grieved for everything that she had lost. We worried for her future. Would she ever be able to live independently? How would society treat her? Would she ever be able to play her violin again? Perhaps most importantly, what would Tiana think of herself having a disability?
+
+For 2.5 months, I stayed with her at RCH, through her recovery from surgery and the beginning of her rehabilitation. The incredible positivity of the staff there was overwhelming, and we eventually stopped grieving our losses and learnt how important it was to stay optimistic, celebrate all of Tiana's achievements, big and small, and just focus on hitting the next goal.
+
+With the support of her therapists and Tiana's perseverance, she gradually began to regain movement in her left side. Almost every day, she amazed us with some new muscle movement. Best of all, we got to see her one-sided smile get bigger every day.
+
+<figure>
+    <img src="assets/img/smile.jpg" alt="Girl smiling"/>
+    <figcaption>Tiana practising her smile.</figcaption>
+</figure>
+
 
 
 <figure>
-    <img src="assets/img/dragon.jpg" alt="A blue and purple 3D printed articulating crystal dragon">
-    <figcaption>3D printed articulated Crystal Dragon gifted to Tiana during her stay at RCH</figcaption>
+    <img src="assets/img/discharge_day.jpg" alt="Photo of girl holding balloon walking down corridor lined with hospital staff"/>
+    <figcaption>One of our proudest moments, Tiana leaving hospital to the cheers of her therapists and Kelpie Ward staff.</figcaption>
+</figure>
+
+I had my first experience with 3D printing at RCH. I occasionally visited the Spiritual Care centre, where I met Paul, the coordinator. Paul is a 3D printing enthusiast, and his office was decorated with an assortment of sensory toys, lithophanes of his family and other items that he had 3D printed himself. When I introduced Tiana to him, he kindly gave her an articulating crystal dragon. I couldn’t figure out how it had been assembled, until Paul explained how the nature of additive 3D printing in layers from the bottom up allows for the creation of permanently interlocked pieces - something difficult to achieve using traditional manufacturing methods. I was intrigued by the possibilities.
+
+
+<figure>
+    <img src="assets/img/dragon.jpg" alt="A blue and purple 3D printed articulating crystal dragon"/>
+    <figcaption>3D printed articulated Crystal Dragon, gifted to Tiana during her stay at RCH</figcaption>
 </figure>
 
 Music has always been important to Tiana. My mother-in-law is a piano teacher, and has been teaching Tiana online from Japan for years. Tiana had also been playing violin since grade 2 with her violin teacher Hilary. We were fortunate to be involved in the music therapy program at RCH, and Tiana always looked forward to her twice-weekly sessions. Her music therapist Jo even allowed us to borrow a keyboard so Tiana could play anytime in her room. Although I had to help by playing the left hand parts for her, it meant so much for her to be able to continue with it during her stay.
