@@ -28,19 +28,6 @@ With the support of her therapists and Tiana's perseverance, she gradually began
     <figcaption>Tiana practising her smile.</figcaption>
 </figure>
 
-<style>
-    .center {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-direction: column;
-    }
-</style>
-
-<figure class="center">
-    <iframe width="400" height="300" src="https://www.youtube.com/embed/N46noUIJXD8" title="Tiana leaving the Royal Children's Hospital after spending 2.5 months recovering from a stroke" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <figcaption>Tiana walks out of Kelpie Ward at the end of her 2.5 month stay.</figcaption>
-</figure>
 
 I had my first experience with 3D printing at RCH. I occasionally visited the Spiritual Care centre, where I met Paul, the coordinator. Paul is a 3D printing enthusiast, and his office was decorated with an assortment of sensory toys, lithophanes of his family and other items that he had 3D printed himself. When I introduced Tiana to him, he kindly gave her an articulating crystal dragon. I couldn’t figure out how it had been assembled, until Paul explained how the nature of additive 3D printing in layers from the bottom up allows for the creation of permanently interlocked pieces - something difficult to achieve using traditional manufacturing methods. I was intrigued by the possibilities.
 
@@ -58,7 +45,23 @@ Music has always been important to Tiana. My mother-in-law is a piano teacher, a
 
 The music therapy room was full of instruments for us to try, including a banana keyboard. Having such a variety of instruments available was great in getting Tiana to start using her left hand again to create music.
 
-Although Tiana was able to walk after a few months, it is often hardest to recover movement in the fingers of the affected side following a stroke. So we had no idea whether she would ever be able to play or even hold the violin again, with the amount of strength and dexterity required in the fingers of the left hand. 
+<style>
+    .center {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+</style>
+
+<figure class="center">
+    <iframe width="400" height="300" src="https://www.youtube.com/embed/N46noUIJXD8" title="Tiana leaving the Royal Children's Hospital after spending 2.5 months recovering from a stroke" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcaption>Tiana walks out of Kelpie Ward at the end of her 2.5 month stay.</figcaption>
+</figure>
+
+We took every opportunity we could for Tiana to practise walking, and our rehab doctor soon took notice of her amazing progress and moved up her discharge date by two weeks. When the day finally arrived, watching her walk out of the ward to the cheers of her therapy team and the ward staff was one of our proudest moments.
+
+Although it had only taken a couple of months for Tiana to walk again and begin regaining her independence, it is often much harder to recover movement in the fingers of the affected side following a stroke. So we had no idea whether she would ever be able to play or even hold the violin again, with the amount of strength and dexterity required in the fingers of the left hand. 
 
 ## Violin
 
@@ -104,4 +107,11 @@ The chopstick and rubber bands had been working great to help Tiana keep her bow
 
 Anthea from the AMBP had kindly given us a Horace bow guide to try. It has two parallel rails, forcing violinists to keep their bow perfectly straight, perpendicular to the strings. This was something that was too difficult at the time for Tiana with her affected wrist. Tiana just needed something to help support the weight of the bow and stop it from sliding down towards the neck. Getting the perfect angle was not important just yet. So we had kept the bow guide aside, and had been using the chopstick instead.
 
-With access to the equipment in the makerspace, I thought that I could remove one rail from the bow guide so that it would allow for some imprecision but still support the bow's weight. 
+With access to the equipment in the makerspace, I thought that I could remove one rail from the bow guide so that it would allow for some imprecision but still support the bow's weight. One of the feet ended up getting in the way of her bow, so I cut that one off, and designed and printed a small peg to insert into the f-hole to help hold the bow guide in place.
+
+<figure>
+    <img src="assets/img/assembly.jpg" alt="A girl holding a violin in front of a microphone"/>
+    <figcaption>Tiana getting ready to perform at assembly, December 2023.</figcaption>
+</figure>
+
+It seemed to work well, until, at the worst possible moment, disaster struck! Tiana was about to make her first performance since having the stroke, in front of hundreds of students, parents and teachers at school assembly. Just as she was getting ready to play the first note, the bow guide fell off her violin onto the ground. Nervous as she already was, she had to pick it up and set it up again with the whole school watching. It was a shaky first performance, but she soldiered on and managed to get through it all. 
