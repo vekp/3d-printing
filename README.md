@@ -28,8 +28,17 @@ With the support of her therapists and Tiana's perseverance, she gradually began
     <figcaption>Tiana practising her smile.</figcaption>
 </figure>
 
-<figure>
-    <iframe width="400" height="300" src="https://www.youtube.com/embed/N46noUIJXD8" title="Tiana leaving the Royal Children&#39;s Hospital after spending 2.5 months recovering from a stroke" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<style>
+    .center {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+</style>
+
+<figure class="center">
+    <iframe width="400" height="300" src="https://www.youtube.com/embed/N46noUIJXD8" title="Tiana leaving the Royal Children's Hospital after spending 2.5 months recovering from a stroke" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <figcaption>Tiana walks out of Kelpie Ward at the end of her 2.5 month stay.</figcaption>
 </figure>
 
