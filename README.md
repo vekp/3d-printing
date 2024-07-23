@@ -1,4 +1,3 @@
-# 3D Printing
 
 [Thingiverse profile](https://www.thingiverse.com/vekp)
 
