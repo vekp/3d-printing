@@ -107,11 +107,16 @@ In October 2023, I booked myself in for a safety induction at [Kathleen Syme Lib
     <figcaption>My first 3D print.</figcaption>
 </figure>
 
-To minimise the amount of support material, I had printed the chin rest with the top surface, the one that would be in contact with Tiana's skin, facing down. I had no idea that after removing supports, there would be such a rough surface on the bottom. So, I spent several hours trying to sand down the surface to make it comfortable to use. I got it to the point where I didn't think it would cut into her skin, but it was still extremely rough and I was somewhat disappointed with the result. 
+To minimise the amount of support material, I had printed the chin rest with the top surface, the one that would be in contact with Tiana's skin, facing down. I had not realised that after removing supports, there would be such a rough surface on the bottom. So, I spent several hours trying to sand down the surface to make it comfortable to use. I got it to the point where I didn't think it would cut into her skin, but it was still extremely rough and I was somewhat disappointed with the result. 
 
 Then, since the 3D scanner had not been able to pick up the holes for the mounting hardware, I had to drill some holes into it. I had assumed it would be as simple as drilling into wood, but soon realised that I was mistaken. Polylactic acid (PLA), the material most commonly used in 3D printing, is very hard and resistant to drilling. The heat generated from drilling can also melt the plastic, causing it to stick to the drill bit. I eventually managed to drill two small holes for the mounting screws, but it took so much longer than I had expected.
 
-After spending most of the day post-processing my first prototype, I was finally able to attach it to Tiana's violin, just in time to pick her up from school and take her to her violin lesson with Hilary. I mentioned the roughness of the surface, and Hilary suggested that she could cover it with a cloth facemask. It worked! Tiana was much more comfortable with it than she had been. I planned to repeat the process and create several different styles for her to try.
+<figure>
+    <img src="assets/img/chin_rest_prototype.jpg" alt="A violin with a white chin rest"/>
+    <figcaption>The chin rest finally installed on the violin.</figcaption>
+</figure>
+
+After spending most of the day post-processing my first prototype, I was finally able to attach it to Tiana's violin, just in time to pick her up from school and take her to her violin lesson with Hilary. I mentioned the roughness of the surface, and Hilary suggested that she could cover it with a cloth facemask. It worked! . I planned to repeat the process and create several different styles for her to try, so she could find the she would be most comfortable with.
 
 Lessons learned:
 * Orient surfaces as close to vertical as possible to give them a smooth finish. 
