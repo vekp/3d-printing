@@ -143,12 +143,12 @@ With access to the equipment in the makerspace, I thought that I could remove on
 It seemed to work well, until disaster struck at the worst possible moment. Tiana had just finished speaking in front of hundreds of students, parents and teachers at school assembly, having just announced the final tally of a Stroke Foundation fundraiser that she taken part in. She was about to follow this up with her first violin performance since suffering her stroke. 
 
 <figure>
-    <img src="assets/img/assembly.jpg" alt="A girl holding a violin in front of a microphone"/>
-    <figcaption>Tiana getting ready for first post-stroke performance at school assembly, December 2023.</figcaption>
+    <img src="assets/img/assembly.jpg" alt="A girl playing a violin"/>
+    <figcaption>Tiana plays violin in her first post-stroke performance at school assembly, December 2023.</figcaption>
 </figure>
 
-Just as she was getting ready to play the first note, the bow guide fell off her violin onto the ground. Nervous as she already was, she picked it up and set it up again with the whole school watching. It shook her up, but she soldiered on and managed to get through to the end of the song. But it wasn't quite the comeback performance she'd hoped for, and she was disappointed with how it went, reluctant to perform in front of people again.
+Just as she was getting ready to play the first note, the bow guide fell off her violin onto the ground. Nervous as she already was, she picked it up and set it up again with the whole school watching. It shook her up, but she bravely soldiered on and managed to get through to the end of the song. But it wasn't quite the comeback performance she'd hoped for, and she was disappointed with how it went, understandably reluctant to perform in front of people ever again.
 
-I couldn't help feeling responsible for what had happened. Something I had designed for her had failed when she needed it the most. It was clear that I had not put enough thought into designing it. It wasn't fair on her. No other violinist needs to worry about pieces of their instrument randomly falling apart when they're performing, nor should they. Had my failure given her a fear of performing? Would she be able to get onto the stage again?
+I couldn't help feeling responsible for what had happened. Something I had designed for her had failed when she needed it the most. It was clear that I had not put enough thought into designing it. It wasn't fair on her. No other violinist needs to worry about pieces of their instrument randomly falling off when they're performing, nor should they. Would my failure lead to her developing a fear of performing? Would she be able to get onto the stage again?
 
-With two more concerts 
+With two more upcoming concerts in the following weeks, Tiana kept practising every day, and I think her confidence in her own skill grew to the point where she was able to overcome any mistrust she might have had in her equipment. At a small concert with Hilary's group of violin students, and a larger one with AMBP, Tiana's performances went great, and fortunately without any repeat incidents. But I 
