@@ -103,7 +103,7 @@ When we signed Tiana up for the program, we had no idea what to expect. Even wit
 
 I had joined a paediatric stroke survivor support group called Little Stroke Warriors (LSW). To celebrate Tiana's stroke anniversary, we posted the story of her stroke and progress with the AMBP in a fundraiser for RCH, and I shared it with the group. Another LSW parent, Anh, soon reached out to me, asking about the string and bridge reversal that we had done. Her daughter Tammy also suffered from left-side weakness, and they were planning for her to start learning to play a reversed cello.
 
-Anh is an engineer, and she suggested that I 3D scan and 3D print a reversed chin rest for Tiana's violin. I considered it, but I was unsure of where to go, or what sort of costs it would involve. How much would I need to spend on equipment, and how much time would I need to spending learning how to do it? I hesitated, until Anh made a post herself, sharing photos of a cello bow handle with adjustable angles that she had designed and printed herself. Inspired, I started looking into 3D printing options, and I was surprised to discover that the City of Melbourne had a number of [makerspaces](https://www.melbourne.vic.gov.au/community/libraries/makerspaces/Pages/makerspaces.aspx) that had all the equipment I would need, all free to use.
+Anh is an engineer, and she suggested that I 3D scan and 3D print a reversed chin rest for Tiana's violin. I considered it, but I was unsure of where to go, or what sort of costs it would involve. How much would I need to spend on equipment, and how much time would I need to spending learning how to do it? I hesitated, until Anh made a post herself, sharing photos of a cello bow handle with adjustable angles that she had designed and printed herself. Inspired, I started looking into 3D printing options, and I was surprised to discover that the [City of Melbourne Library makerspaces](https://www.melbourne.vic.gov.au/community/libraries/makerspaces/Pages/makerspaces.aspx) that had all the equipment I would need, and it was all free to use.
 
 In October 2023, I booked myself in for a safety induction at [Kathleen Syme Library and Community Centre](https://www.melbourne.vic.gov.au/community/hubs-bookable-spaces/kathleen-syme-library-and-community-centre/Pages/kathleen-syme-library.aspx), and with the help of the makerspace staff, I had soon 3D scanned a chin rest, mirrored it in a slicer, and had my very first 3D print going.
 
@@ -140,10 +140,15 @@ Anthea from the AMBP had kindly given us a Horace bow guide to try. It has two p
 
 With access to the equipment in the makerspace, I thought that I could remove one rail from the bow guide so that it would allow for some imprecision but still support the bow's weight. One of the feet ended up getting in the way of her bow, so I cut that one off, and designed and printed a small peg to insert into the f-hole to help hold the bow guide in place.
 
+It seemed to work well, until disaster struck at the worst possible moment. Tiana had just finished speaking in front of hundreds of students, parents and teachers at school assembly, having just announced the final tally of a Stroke Foundation fundraiser that she taken part in. She was about to follow this up with her first violin performance since suffering her stroke. 
+
 <figure>
     <img src="assets/img/assembly.jpg" alt="A girl holding a violin in front of a microphone"/>
-    <figcaption>Tiana getting ready to perform at assembly, December 2023.</figcaption>
+    <figcaption>Tiana getting ready for first post-stroke performance at school assembly, December 2023.</figcaption>
 </figure>
 
-It seemed to work well, until disaster struck at the worst possible moment. Tiana was about to make her first performance since having the stroke, in front of hundreds of students, parents and teachers at school assembly. Just as she was getting ready to play the first note, the bow guide fell off her violin onto the ground. Nervous as she already was, she had to pick it up and set it up again with the whole school watching. It shook her up, but she soldiered on and managed to get through to the end. But it wasn't quite the comeback performance she'd hoped for, and she was disappointed with how it went.
+Just as she was getting ready to play the first note, the bow guide fell off her violin onto the ground. Nervous as she already was, she picked it up and set it up again with the whole school watching. It shook her up, but she soldiered on and managed to get through to the end of the song. But it wasn't quite the comeback performance she'd hoped for, and she was disappointed with how it went, reluctant to perform in front of people again.
 
+I couldn't help feeling responsible for what had happened. Something I had designed for her had failed when she needed it the most. It was clear that I had not put enough thought into designing it. It wasn't fair on her. No other violinist needs to worry about pieces of their instrument randomly falling apart when they're performing, nor should they. Had my failure given her a fear of performing? Would she be able to get onto the stage again?
+
+With two more concerts 
