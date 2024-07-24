@@ -30,6 +30,14 @@ With the support of her therapists and Tiana's perseverance, she gradually began
     <figcaption>Tiana practising her smile.</figcaption>
 </figure>
 
+We celebrated Roland's 7th birthday a few weeks into our stay at RCH. With so much attention on Tiana and her recovery, we had been unable to give him much attention, and he had been spending a lot of time under the care of our extended family. Strict COVID policy made it difficult for us to bring him into the ward, but we were granted an exemption for his birthday. It was so nice for all of us to be together again to celebrate.
+
+<figure>
+    <img src="assets/img/birthday.jpg" alt="Family having birthday party outside"/>
+    <figcaption>Roland's 7th birthday and Tiana's first time outside since the stroke.</figcaption>
+</figure>
+
+
 
 I had my first experience with 3D printing at RCH. I occasionally visited the Spiritual Care centre, where I met Paul, the coordinator. Paul is a 3D printing enthusiast, and his office was decorated with an assortment of sensory toys, lithophanes of his family and other items that he had 3D printed himself. When I introduced Tiana to him, he kindly gave her an articulating crystal dragon. I couldn’t figure out how it had been assembled, until Paul explained how the nature of additive 3D printing in layers from the bottom up allows for the creation of permanently interlocked pieces - something difficult to achieve using traditional manufacturing methods. I was intrigued by the possibilities.
 
