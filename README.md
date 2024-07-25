@@ -65,7 +65,7 @@ With the support of her therapists and Tiana's perseverance, she gradually began
     <figcaption>Tiana practising her smile.</figcaption>
 </figure>
 
-We celebrated Roland's 7th birthday a few weeks into our stay at RCH. With so much attention on Tiana and her recovery, we had been unable to give him much attention, and he had been spending a lot of time under the care of our extended family. Strict COVID policy made it difficult for us to bring him into the ward, but we were granted an exemption for his birthday. It was so nice for all of us to be together again to celebrate.
+We celebrated Roland's 7th birthday a few weeks into our stay at RCH. With so much of our focus on Tiana and her recovery, we had been unable to give him much attention, and he had been spending a lot of time under the care of our extended family. Strict COVID policy made it difficult for us to bring him into the ward, but we were granted an exemption for his birthday. It was so nice for all of us to be together again to celebrate.
 
 <figure>
     <img src="assets/img/birthday.jpg" alt="Family having birthday party outside"/>
@@ -156,10 +156,10 @@ Then, since the 3D scanner had not been able to pick up the holes for the mounti
 
 <figure>
     <img src="assets/img/chin_rest_prototype.jpg" alt="A violin with a white chin rest"/>
-    <figcaption>The chin rest finally installed on the violin.</figcaption>
+    <figcaption>The chin rest finally finished and installed on the violin.</figcaption>
 </figure>
 
-After spending most of the day post-processing my first prototype, I was finally able to attach it to Tiana's violin, just in time to pick her up from school and take her to her violin lesson with Hilary. I mentioned the roughness of the surface, and Hilary suggested that she could cover it with a cloth facemask. It worked! . I planned to repeat the process and create several different styles for her to try, so she could find the she would be most comfortable with.
+After spending most of the day post-processing my first prototype, I was finally able to attach it to Tiana's violin, just in time to pick her up from school and take her to her violin lesson with Hilary. I mentioned the roughness of the surface, and Hilary suggested that she could cover it with a cloth facemask. It worked! I planned to repeat the process and create several different styles for her to try, so she could find the she would be most comfortable with.
 
 Lessons learned:
 * Orient surfaces as close to vertical as possible to give them a smooth finish. 
@@ -186,4 +186,15 @@ Just as she was getting ready to play the first note, the bow guide fell off her
 
 I couldn't help feeling responsible for what had happened. Something I had designed for her had failed when she needed it the most. It was clear that I had not put enough thought into designing it. It wasn't fair on her. No other violinist needs to worry about pieces of their instrument randomly falling off when they're performing, nor should they. Would my failure lead to her developing a fear of performing? Would she be able to get onto the stage again?
 
-With two more upcoming concerts in the following weeks, Tiana kept practising every day, and I think her confidence in her own skill grew to the point where she was able to overcome any mistrust she might have had in her equipment. At a small concert with Hilary's group of violin students, and a larger one with AMBP, Tiana's performances went great, and fortunately without any repeat incidents. But I 
+With two more upcoming concerts in the following weeks, Tiana kept practising, and I think her confidence in her own skill grew to the point where she was able to overcome any mistrust she might have had in her equipment. At a small concert with Hilary's group of violin students, and a larger one with AMBP, Tiana's performances went great, and fortunately without any repeat incidents. But I had to do something about that bow guide, so that she could trust her equipment again.
+
+
+
+
+
+
+
+<figure class="center">
+    <iframe width="400" height="711" src="https://www.youtube.com/embed/sVlaj-BPSoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcaption>Tiana walks out of Kelpie Ward at the end of her 2.5 month stay.</figcaption>
+</figure>
