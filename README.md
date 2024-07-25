@@ -1,8 +1,8 @@
-**Please note: This story is a work in progress. I will announce when it is complete.**
+**Please note: This story is a work in progress and subject to change. I will announce when it is complete.**
 
 [Thingiverse profile](https://www.thingiverse.com/vekp)
 
-
+# Our family's story
 ## Tiana's stroke
 
 <figure>
@@ -10,12 +10,41 @@
     <figcaption>Our family, celebrating Tiana's 10th birthday in early 2022. Clockwise from top: Vincent, Roland, Tiana, Sayaka.</figcaption>
 </figure>
 
-On June 6, 2022, our daughter Tiana, 10 years old at the time, suffered a severe stroke when an arteriovenous malformation (AVM) in her brain ruptured. She was hospitalised at the Royal Children's Hospital (RCH), and survived a complex 11-hour operation where her AVM was removed. Although the surgery was a huge success, the stroke had taken away all of Tiana's independence in an instant. The entire left side of her body was completely paralysed, leaving her unable to walk, sit, eat, drink, smile, or even turn her head. 
+On June 6, 2022, our daughter Tiana, 10 years old at the time, suffered a severe stroke when an arteriovenous malformation (AVM) in her brain ruptured. She was hospitalised at the Royal Children's Hospital (RCH), and survived a complex 11-hour operation in which her AVM was removed. Although the surgery was a huge success, the stroke had taken away all of Tiana's independence in an instant. The entire left side of her body was completely paralysed, leaving her unable to walk, sit, eat, drink, smile, or even turn her head. 
 
 <figure>
-    <img src="assets/img/picu.jpg" alt="Girl lying in hospital bed"/>
+    <img src="assets/img/picu.jpg" alt="Girl lying in hospital bed with bandaged head"/>
     <figcaption>Tiana recovering in PICU after major brain surgery.</figcaption>
 </figure>
+
+It was actually Tiana's second time undergoing brain surgery at RCH. Before she had been born, antenatal ultrasounds had revealed a lymphangioma in Tiana's neck and chest which had the potential to causes breathing issues. To our relief, the lymphangioma did not give her any trouble then, and still hasn't. It is still there, and is unlikely to cause any problems in the future. It did, however, set off a series of medical imaging procedures on newborn Tiana, in which the results of an MRI raised alarms.
+
+The scan had identified an arteriovenous fistula (AVF) in Tiana's brain that threatened to haemorrhage, which could cause a stroke or death. She was placed under the care of neurosurgeon Dr Alison Wray at RCH. Dr Wray planned to wait until Tiana was 5 months old, then ligate the AVF surgically. She assured us that it was a relatively simple procedure, and after Googling her name and reading about some of her amazing work, we agreed to the operation. As terrifying as it was for us to put our tiny, precious daughter's life in the hands of someone else, we knew that she would be in the best of hands, in a brand new, world-class facility.
+
+<figure>
+    <img src="assets/img/baby_rch.jpg" alt="Baby lying in hospital bed with bandaged head"/>
+    <figcaption>Tiana recovering at RCH after first major brain surgery.</figcaption>
+</figure>
+
+As we had hoped, the operation was a success, and after spending just a few days recovering in Cockatoo Ward, Tiana was back to her normal self at home.  
+
+<figure>
+    <img src="assets/img/baby_bumbo.jpg" alt="Baby lying in hospital bed with bandaged head"/>
+    <figcaption>Tiana back at home.</figcaption>
+</figure>
+
+
+She had an impressive new scar that would eventually be mostly hidden by her hair, and needed regular ongoing MRIs to monitor the blood vessels in her head, but otherwise led a pretty normal life, unaffected by and mostly unaware of the all the dramas that had occurred.
+
+<figure>
+    <img src="assets/img/tiana_and_baby_roland.jpg" alt="Young girl holding a baby boy"/>
+    <figcaption>Tiana welcoming newborn brother Roland to the world.</figcaption>
+</figure>
+
+
+
+
+
 
 We had been aware of Tiana's AVM since 2 years prior, and had known that there was a small chance that it could rupture. However, there are many people who live their whole lives with unruptured AVMs - some may never even be aware that they have them - and we had hoped that Tiana would be lucky enough to be one of them. We were terrified of what it would mean if it did rupture, and spent many nights fearing the worst.
 
