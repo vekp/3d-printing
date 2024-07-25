@@ -3,6 +3,14 @@
 [Thingiverse profile](https://www.thingiverse.com/vekp)
 
 # Our family's story
+*Vincent Ekpanyaskun, July 2024*
+
+I am sharing my family's story in the hope that it will inspire those facing setbacks and challenges, educate them about the potential of maker technologies like 3D printing, and encourage them to seek out the support they need to learn new skills that can empower them to overcome their challenges, improve their lives, and achieve their goals.
+
+This is the story of my daughter Tiana, who suffered a debilitating stroke at age 10 but refused to let it diminish her passion for music. As a complete beginner, I used 3D printing to create adaptive tools that have enabled her to play her violin comfortably and independently once again.
+
+If that sounds like an expensive hobby to take up, please read on to learn how I used free web applications for design and accessed 3D printers at public library makerspaces, investing only my own time to learn how to make it happen.
+
 ## Tiana's stroke
 
 <figure>
@@ -22,7 +30,7 @@ It was actually Tiana's second time undergoing brain surgery at RCH. Before she 
 The scan had identified an arteriovenous fistula (AVF) in Tiana's brain that threatened to haemorrhage, which could cause a stroke or death. She was placed under the care of neurosurgeon Dr Alison Wray at RCH. Dr Wray planned to wait until Tiana was 5 months old, then ligate the AVF surgically. She assured us that it was a relatively simple procedure, and after Googling her name and reading about some of her amazing work, we agreed to the operation. As terrifying as it was for us to put our tiny, precious daughter's life in the hands of someone else, we knew that she would be in the best of hands, in a brand new, world-class facility.
 
 <figure>
-    <img src="assets/img/baby_rch.jpg" alt="Baby lying in hospital bed with bandaged head"/>
+    <img src="assets/img/baby_rch.jpg" alt="Baby girl lying in hospital bed with bandaged head"/>
     <figcaption>Tiana recovering at RCH after first major brain surgery.</figcaption>
 </figure>
 
@@ -33,16 +41,14 @@ As we had hoped, the operation was a success, and after spending just a few days
     <figcaption>Tiana back at home.</figcaption>
 </figure>
 
-
-She had an impressive new scar that would eventually be mostly hidden by her hair, and needed regular ongoing MRIs to monitor the blood vessels in her head, but otherwise led a pretty normal life, unaffected by and mostly unaware of the all the dramas that had occurred.
+She had an impressive new scar that would eventually be mostly hidden by her hair, and she needed regular ongoing MRIs to monitor the blood vessels in her head, but otherwise led a pretty normal life, unaffected by and mostly unaware of the all the dramas that had occurred.
 
 <figure>
     <img src="assets/img/tiana_and_baby_roland.jpg" alt="Young girl holding a baby boy"/>
-    <figcaption>Tiana welcoming newborn brother Roland to the world.</figcaption>
+    <figcaption>3 year old Tiana welcoming newborn brother Roland to the world.</figcaption>
 </figure>
 
-
-
+From a young age, music has always been important to Tiana. My mother-in-law is a piano teacher, and has been teaching Tiana online from Japan for many years. Tiana has also been learning to play violin since grade 2 with her violin teacher Hilary.
 
 
 
@@ -75,7 +81,7 @@ I had my first experience with 3D printing at RCH. I occasionally visited the Sp
     <figcaption>3D printed articulated Crystal Dragon, gifted to Tiana during her stay at RCH</figcaption>
 </figure>
 
-Music has always been important to Tiana. My mother-in-law is a piano teacher, and has been teaching Tiana online from Japan for years. Tiana had also been playing violin since grade 2 with her violin teacher Hilary. We were fortunate to be involved in the music therapy program at RCH, and Tiana always looked forward to her twice-weekly sessions. Her music therapist Jo even allowed us to borrow a keyboard so Tiana could play anytime in her room. Although I had to help by playing the left hand parts for her, it meant so much for her to be able to continue with it during her stay.
+We were fortunate to be involved in the music therapy program at RCH, and Tiana always looked forward to her twice-weekly sessions. Her music therapist Jo even allowed us to borrow a keyboard so Tiana could play anytime in her room. Although I had to help by playing the left hand parts for her, it meant so much for her to be able to continue with it during her stay.
 
 <figure>
     <img src="assets/img/music_therapy.png" alt="Five people playing various musical instruments"/>
