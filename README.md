@@ -236,3 +236,26 @@ Printing just the hinge by itself meant I could trial 5 designs in a single half
     <iframe width="400" height="711" src="https://www.youtube.com/embed/sVlaj-BPSoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <figcaption>Tiana performing solo at a violin concert.</figcaption>
 </figure>
+
+
+# Reflection
+
+There are times when I blame myself for Tiana’s stroke. In these moments, I imagine an alternate version of events where I say just the right words to a doctor or nurse, and that triggers a series of events leading to them deciding to remove Tiana’s AVM before it has a chance to rupture and cause her stroke. The surgery is a great success, and she never suffers from paralysis, never has to deal with the endless hours of appointments with therapists and home rehab exercises, the pain caused by an orthotic that doesn’t quite fit perfectly, having to make sure she has an adult with her every time she takes the stairs. We never need to spend days looking up different kinds of therapy, comparing their effectiveness on stroke patients, trying to find the best team to help her get an extra millimetre of movement from the fingers of her left hand. She never needs to struggle with tying her hair, or getting in or out of the car while holding her heavy backpack. And she doesn’t need to fear the crippling exhaustion of cognitive fatigue that can strike at any time without warning. We wouldn’t need to worry about whether people will judge her by the way she walks or the way she moves her left arm or how long it takes her to open a bottle, bullying or excluding her before even giving her a chance.
+
+In times like these, I look at Tiana and I realise that she understands better than I do, the futility of finding someone to blame for your problems. I see the way she has taken those opportunities that have arisen from her setbacks. I see the pride in her face as she brings her violin to the living room to show us how much better she’s getting at the new song she’s learning. I see the pure effort she puts into her exercises, willing those stubborn fingers to open a fraction wider. And I hear her laugh as she recounts the antics of her group of high school friends. 
+
+I wonder if she will end up making music that will change the world, and I realise that she already has. I know I am not the only one she has inspired to help create a brighter future.
+
+I realise how extremely fortunate I am to be part of her story.
+
+# Acknowledgements
+
+There are so many people and organisations who have supported us, including:
+
+* The Royal Children's Hospital
+* Stroke Foundation
+* Community therapists
+* Melbourne Youth Orchestras & University of Melbourne's Adaptive Music Bridging Program
+* Music teachers
+* School teachers
+* City of Melbourne Libraries
