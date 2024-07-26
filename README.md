@@ -18,6 +18,8 @@ If that sounds like an expensive hobby to take up, please read on to learn how I
     <figcaption>Our family, celebrating Tiana's 10th birthday in early 2022. Clockwise from top: Vincent, Roland, Tiana, Sayaka.</figcaption>
 </figure>
 
+TODO: put into chronological order
+
 On June 6, 2022, our daughter Tiana, 10 years old at the time, suffered a severe stroke when an arteriovenous malformation (AVM) in her brain ruptured. She was hospitalised at the Royal Children's Hospital (RCH), and survived a complex 11-hour operation in which her AVM was removed. Although the surgery was a huge success, the stroke had taken away all of Tiana's independence in an instant. The entire left side of her body was completely paralysed, leaving her unable to walk, sit, eat, drink, smile, or even turn her head. 
 
 <figure>
@@ -56,7 +58,9 @@ We had been aware of Tiana's AVM since 2 years prior, and had known that there w
 
 When it happened to Tiana, that fear had come true, all too soon. We were shocked and grieved for everything that she had lost. We worried for her future. Would she ever be able to live independently? How would society treat her? Would she ever be able to play her violin again? Perhaps most importantly, what would Tiana think of herself having a disability?
 
-For 2.5 months, I stayed with her at RCH, through her recovery from surgery and the beginning of her rehabilitation. The incredible positivity of the staff there was overwhelming, and we eventually stopped grieving our losses and learnt how important it was to stay optimistic, celebrate all of Tiana's achievements, big and small, and just focus on hitting the next goal.
+For 2.5 months, I stayed with her at RCH, through her recovery from surgery and the beginning of her rehabilitation. For many days, I would find myself awake at 4am, crying. When the tears stopped, I would walk down the darkened corridors of Kelpie Ward to the kitchen and make myself a cup of coffee. I would bring it back to our room and resume crying, hoping that the tears would stop before Tiana awoke. They usually didn't.
+
+The incredible positivity of the staff there was overwhelming, and we eventually stopped grieving our losses and learnt how important it was to stay optimistic, celebrate all of Tiana's achievements, big and small, and just focus on hitting the next goal.
 
 With the support of her therapists and Tiana's perseverance, she gradually began to regain movement in her left side. Almost every day, she amazed us with some new muscle movement. Best of all, we got to see her initially one-sided smile get bigger and better with each day that passed.
 
@@ -228,7 +232,9 @@ Recalling the articulating pieces of Paul's dragon, I started looking into 3D pr
 Printing just the hinge by itself meant I could trial 5 designs in a single half hour print, quickly redesign and repeat, so it didn't take long to arrive at a hinge design that worked well. But that was just the start.
 
 
+TODO: Finish this bit
 
+## Bow Grip
 
 # New section
 
