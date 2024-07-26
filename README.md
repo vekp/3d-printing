@@ -72,7 +72,7 @@ We celebrated Roland's 7th birthday a few weeks into our stay at RCH. With so mu
     <figcaption>Roland's 7th birthday and Tiana's first time outside since the stroke.</figcaption>
 </figure>
 
-
+You may have noticed my freshly shaved head in the photo. Tiana had to have a large portion of her hair removed for the surgery. Like any parent would, I wished for her suffering to have happened to me instead. Shaving my head was the only thing I way I could think of to share in her suffering without actually hurting myself. And it came with bonus giggles every time she looked at me over the following week or so. 
 
 I had my first experience with 3D printing at RCH. I occasionally visited the Spiritual Care centre, where I met Paul, the coordinator. Paul is a 3D printing enthusiast, and his office was decorated with an assortment of sensory toys, lithophanes of his family and other items that he had 3D printed himself. When I introduced Tiana to him, he kindly gave her an articulating crystal dragon. I couldn’t figure out how it had been assembled, until Paul explained how the nature of additive 3D printing in layers from the bottom up allows for the creation of permanently interlocked pieces - something difficult to achieve using traditional manufacturing methods. I was intrigued by the possibilities.
 
@@ -142,7 +142,10 @@ Anh is an engineer, and she suggested that I 3D scan and 3D print a reversed chi
 
 In October 2023, I booked myself in for a safety induction at [Kathleen Syme Library and Community Centre](https://www.melbourne.vic.gov.au/community/hubs-bookable-spaces/kathleen-syme-library-and-community-centre/Pages/kathleen-syme-library.aspx), and with the help of the makerspace staff, I had soon 3D scanned a chin rest, mirrored it in a slicer, and had my very first 3D print going.
 
-## Chin rest - to allow Tiana to play comfortably
+# 3D Printing Projects
+
+## Chin rest
+*To allow Tiana to play violin in comfort*
 
 <figure>
     <img src="assets/img/chin_rest_printing.jpg" alt="A 3D printer printing a chin rest" width="300"/>
@@ -150,7 +153,7 @@ In October 2023, I booked myself in for a safety induction at [Kathleen Syme Lib
     <figcaption>My first 3D print.</figcaption>
 </figure>
 
-To minimise the amount of support material, I had printed the chin rest with the top surface, the one that would be in contact with Tiana's skin, facing down. I had not realised that after removing supports, there would be such a rough surface on the bottom. So, I spent several hours trying to sand down the surface to make it comfortable to use. I got it to the point where I didn't think it would cut into her skin, but it was still extremely rough and I was somewhat disappointed with the result. 
+To minimise the amount of support material, I had printed the chin rest with the top surface, the one that would be in contact with Tiana's skin, facing down. I had not realised that after removing supports, that it would leave such a rough surface. So I spent several hours trying to sand down the surface to make it comfortable to use, finding out how hard the plastic is to work with. I got it to the point where I didn't think it would cut into her skin, but it was still extremely rough and I was somewhat disappointed with the result. 
 
 Then, since the 3D scanner had not been able to pick up the holes for the mounting hardware, I had to drill some holes into it. I had assumed it would be as simple as drilling into wood, but soon realised that I was mistaken. Polylactic acid (PLA), the material most commonly used in 3D printing, is very hard and resistant to drilling. The heat generated from drilling can also melt the plastic, causing it to stick to the drill bit. I eventually managed to drill two small holes for the mounting screws, but it took so much longer than I had expected.
 
@@ -159,42 +162,77 @@ Then, since the 3D scanner had not been able to pick up the holes for the mounti
     <figcaption>The chin rest finally finished and installed on the violin.</figcaption>
 </figure>
 
-After spending most of the day post-processing my first prototype, I was finally able to attach it to Tiana's violin, just in time to pick her up from school and take her to her violin lesson with Hilary. I mentioned the roughness of the surface, and Hilary suggested that she could cover it with a cloth facemask. It worked! I planned to repeat the process and create several different styles for her to try, so she could find the she would be most comfortable with.
+After spending most of the day post-processing my first prototype, I glued some felt to the bottom and attached it to Tiana's violin, just in time to pick her up from school and take her to her violin lesson with Hilary. I mentioned the roughness of the surface, and Hilary suggested that she could cover it with a cloth facemask. It worked! I planned to repeat the process and create several different styles for her to try, so she could find the she would be most comfortable with.
 
 Lessons learned:
 * Orient surfaces as close to vertical as possible to give them a smooth finish. 
 * If you need holes, include them in the design of the model before printing. 
 
-I ended up learning to use [Tinkercad](https://www.tinkercad.com/) so I could add holes to the chin rest before printing. I also took the opportunity to add Tiana's engraved name to the design. After scanning and printing several different chin rests, I was finally able to create one that was comfortable for Tiana to use, and looked nice enough for her to perform with.
+I ended up learning to use [Tinkercad](https://www.tinkercad.com/). Tinkercad is a free to use app that runs in a web browser. With a simple drag-and-drop interface, it really is easy enough for anyone to learn. I used it to add holes to the chin rest before printing. I also took the opportunity to add Tiana's engraved name to the design. 
 
-## Bow guide - to allow Tiana to setup independently
+<figure class="center">
+    <iframe width="400" height="300" src="https://www.youtube.com/embed/aJx3tQBNC9o?si=WgU2FdHN143SzFtV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcaption>Tiana's final chin rest getting 3D printed.</figcaption>
+</figure>
+
+After scanning and printing several different chin rests, I was finally able to create one that was comfortable for Tiana to use, and looked nice enough for her to perform with.
+
+## Bow guide
+*To allow Tiana to setup her violin independently*
 
 The chopstick and rubber bands had been working great to help Tiana keep her bow in position. They had to be installed and removed each time Tiana played the violin, since they wouldn't fit as fitted in the case. Rubber bands would often fly off during the process, and it was impossible to install without using two hands. Tiana needed someone else to do it for her each time.
 
+With Tiana in her final year of primary school, we wanted her to be able to do as many things as possible independently, so I start thinking of ways to make her violin easier to setup, with the goal of her being able to do it completely by herself.
+
 Anthea from the AMBP had kindly given us a Horace bow guide to try. It has two parallel rails, forcing violinists to keep their bow perfectly straight, perpendicular to the strings. This was something that was too difficult at the time for Tiana with her affected wrist. Tiana just needed something to help support the weight of the bow and stop it from sliding down towards the neck. Getting the perfect angle was not important just yet. So we had kept the bow guide aside, and had been using the chopstick instead.
 
-With access to the equipment in the makerspace, I thought that I could remove one rail from the bow guide so that it would allow for some imprecision but still support the bow's weight. One of the feet ended up getting in the way of her bow, so I cut that one off, and designed and printed a small peg to insert into the f-hole to help hold the bow guide in place.
+With access to the equipment in the makerspace, I thought that I could remove one rail from the bow guide so that it would allow for some imprecision but still support the bow's weight. One of the feet ended up getting in the way of her bow, so I cut that one off, and designed and printed a small peg, held in place with pieces of the discarded foot shoved into the f-hole to help hold the bow guide in place.
 
-It seemed to work well, until disaster struck at the worst possible moment. Tiana had just finished speaking in front of hundreds of students, parents and teachers at school assembly, having just announced the final tally of a Stroke Foundation fundraiser that she taken part in. She was about to follow this up with her first violin performance since suffering her stroke. 
+<figure>
+    <img src="assets/img/peg.jpg" alt="Close-up shot of violin showing bow guide attached"/>
+    <figcaption>3D printed peg holding bow guide.</figcaption>
+</figure>
+
+Looking back at it now, I realise that there was little more than gravity and friction across a tiny contact area holding the bow guide in place. A small overhanging lip would have made the connection much more secure. At the time, it seemed to work well though, up until the moment it failed.
+
+Tiana had just finished speaking in front of hundreds of students, parents and teachers at school assembly, having just announced the final tally of a Stroke Foundation fundraiser that she taken part in. She was about to follow this up with her first violin performance since suffering her stroke. 
 
 <figure>
     <img src="assets/img/assembly.jpg" alt="A girl playing a violin"/>
     <figcaption>Tiana plays violin in her first post-stroke performance at school assembly, December 2023.</figcaption>
 </figure>
 
-Just as she was getting ready to play the first note, the bow guide fell off her violin onto the ground. Nervous as she already was, she picked it up and set it up again with the whole school watching. It shook her up, but she bravely soldiered on and managed to get through to the end of the song. But it wasn't quite the comeback performance she'd hoped for, and she was disappointed with how it went, understandably reluctant to perform in front of people ever again.
+As she was getting ready to play the first note, just a light tap from the bow led to the bow guide becoming dislodged and falling to the ground. There couldn't have been a worse time for this to happen. Nervous as she already was, she picked it up and set it up again with the entire school community watching. It shook her up, but she bravely soldiered on and managed to get through to the end of the song. But it wasn't quite the comeback performance she'd hoped for, and she was disappointed with how it went, understandably reluctant to perform in front of people ever again.
 
-I couldn't help feeling responsible for what had happened. Something I had designed for her had failed when she needed it the most. It was clear that I had not put enough thought into designing it. It wasn't fair on her. No other violinist needs to worry about pieces of their instrument randomly falling off when they're performing, nor should they. Would my failure lead to her developing a fear of performing? Would she be able to get onto the stage again?
+I couldn't help feeling responsible for what had happened. Something I had designed for her had failed when she needed it the most. It was clear that I hadn't put enough thought into designing it, and it wasn't fair on her. No other violinist needs to worry about pieces of their instrument randomly falling off when they're performing, nor should they. Would my failure lead to her developing a fear of performing? Would she be able to get onto the stage again? I couldn't forgive myself, but I was unable to think of a solution at the time.
 
 With two more upcoming concerts in the following weeks, Tiana kept practising, and I think her confidence in her own skill grew to the point where she was able to overcome any mistrust she might have had in her equipment. At a small concert with Hilary's group of violin students, and a larger one with AMBP, Tiana's performances went great, and fortunately without any repeat incidents. But I had to do something about that bow guide, so that she could trust her equipment again.
 
+Browsing Thingiverse for ideas, I came across MissyMoo9's [Violin Bow Guide](https://www.thingiverse.com/thing:3344626). It looked like it would be easy enough to attach to the fingerboard with a single hand, so I created a modified version for Tiana by removing one of its rails.
+
+<figure>
+    <img src="assets/img/modded_bow_guide.png" alt="A computer render of a bow guide"/>
+    <figcaption>Modified version of MissyMoo9's Violin Bow Guide, created in Tinkercad.</figcaption>
+</figure>
+
+It was initially quite loose, but with some heat from a hair dryer to soften the PLA and some strategic squeezing, I managed to get it to fit securely enough.
+While this did the job well for a while, I started thinking of ways to make it even better. What if I could make it so that it didn't need to be removed from the violin at all, but could be folded down flat for storage in the case?
+
+Recalling the articulating pieces of Paul's dragon, I started looking into 3D printed hinge design. Still using Tinkercad, I modelled and printed a few designs, along with different clearances, to find the best fit. I wanted to make a hinge that would stay in the upright position without falling down accidentally, so I designed it with tighter clearances and a pressed fit.
+
+<figure>
+    <img src="assets/img/hinges.png" alt="A computer render of some hinges"/>
+    <figcaption>Trialling different hinge designs and clearances.</figcaption>
+</figure>
+
+Printing just the hinge by itself meant I could trial 5 designs in a single half hour print, quickly redesign and repeat, so it didn't take long to arrive at a hinge design that worked well. But that was just the start.
 
 
 
 
-
+# New section
 
 <figure class="center">
     <iframe width="400" height="711" src="https://www.youtube.com/embed/sVlaj-BPSoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <figcaption>Tiana walks out of Kelpie Ward at the end of her 2.5 month stay.</figcaption>
+    <figcaption>Tiana performing solo at a violin concert.</figcaption>
 </figure>
