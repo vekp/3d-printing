@@ -265,3 +265,5 @@ There are so many people and organisations who have supported us, including:
 * Music teachers
 * School teachers
 * City of Melbourne Libraries
+* Family
+* Friends
