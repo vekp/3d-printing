@@ -60,6 +60,12 @@ When it happened to Tiana, that fear had come true, all too soon. We were shocke
 
 For 2.5 months, I stayed with her at RCH, through her recovery from surgery and the beginning of her rehabilitation. For many days, I would find myself awake at 4am, crying. When the tears stopped, I would walk down the darkened corridors of Kelpie Ward to the kitchen and make myself a cup of coffee. I would bring it back to our room and resume crying, hoping that the tears would stop before Tiana awoke. They usually didn't.
 
+TODO: Reword  
+ When I started talking to other parents in the ward, I began to realise that Tiana was not alone in her suffering. Kelpie Ward was shared between rehab patients like Tiana, cancer patients and mental health patients. Although everyone's experience was unique, there was a real sense of community and we all supported each other through our stays.
+
+TODO: Reword  
+I would often read to Tiana in those early days. Initially we just read fiction as a way to escape our situation, but then I came across the [RCH patient stories](https://www.goodfridayappeal.com.au/stories/) on the Good Friday Appeal website, and we started reading them, finding out about the many amazing ways RCH had helped other kids. Sometimes we were saddened to read the stories about kids with degenerative diseases such as muscular dystrophy. We started realising how incredibly fortunate we were to be in such a facility as RCH. 
+
 The incredible positivity of the staff there was overwhelming, and we eventually stopped grieving our losses and learnt how important it was to stay optimistic, celebrate all of Tiana's achievements, big and small, and just focus on hitting the next goal.
 
 With the support of her therapists and Tiana's perseverance, she gradually began to regain movement in her left side. Almost every day, she amazed us with some new muscle movement. Best of all, we got to see her initially one-sided smile get bigger and better with each day that passed.
