@@ -235,10 +235,20 @@ Recalling the articulating pieces of Paul's dragon, I started looking into 3D pr
     <figcaption>Trialling different hinge designs and clearances.</figcaption>
 </figure>
 
-Printing just the hinge by itself meant I could trial 5 designs in a single half hour print, quickly redesign and repeat, so it didn't take long to arrive at a hinge design that worked well. But that was just the start.
+Printing just the hinge by itself meant I could trial 5 designs in a single half hour print, quickly redesign and repeat, so it didn't take long to arrive at a hinge design that worked well. But that was just the beginning.
+I then had to design the rest of the bow guide.
 
+My first idea was to recreate the previous bow guide, but simply add a pair of hinges to allow the curved section to articulate. However, the looser clearances in the horizontal position meant that the bow guide would not hold tight to the fingerboard.
 
-TODO: Finish this bit
+My next attempt was to connect the two sides that gripped the fingerboard, and use a vertical stick joined with a single hinge to the centre. After trialling different widths to make it fit the fingerboard, this version stayed on better than the last, but we found that the bow would sometimes slip over the stick. I tried making the stick longer, but if it protruded past the bridge at all, it wouldn't fit in the case properly. Making it the maximum length I could, just touching the bridge when folder down, it still wasn't quite long enough.
+
+Thinking of her original bow guide, the pencil/chopstick, I decided to try putting the stick on the right side of the strings instead of the centre, allowing it to make it extra long, but still able to lie flat next to the bridge. This was much better.
+
+We found that the violin made quite noticeable scraping sounds when being played with the bow guide. Vibrations from the bow being rubbed against the PLA stick were being transmitted directly through the fingerboard to the violin body and amplified by the violin's body. I tried gluing a strip of felt to the stick, and while this helped reduce the noise when the wooden part of the bow scraped across it, when the hair rubbed across it, the added friction would create loud noises again.
+
+After going through a few other ideas, I finally printed a thin piece of PLA to give and smooth contact surface, and attached this to the stick of the bow guide with some pieces of rubber/felt furniture feet protectors sandwiched in between to dampen the vibrations. 
+
+TODO: Finish this bit, add photos
 
 ## Bow Grip
 
