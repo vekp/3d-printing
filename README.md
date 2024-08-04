@@ -7,7 +7,7 @@
 
 I am sharing my family's story in the hope that it will inspire those facing setbacks and challenges, educate them about the potential of maker technologies like 3D printing, and encourage them to seek out the support they need to learn new skills that can empower them to overcome their challenges, improve their lives, and achieve their goals.
 
-This is the story of my daughter Tiana, who suffered a debilitating stroke at age 10 but refused to let it diminish her passion for music. As a complete beginner, I used 3D printing to create adaptive tools that have enabled her to play her violin comfortably and independently once again.
+This is the story of my daughter Tiana, who suffered a debilitating stroke at age 10 but refused to let it diminish her passion for music. As a complete beginner, I learned how to use 3D modelling and printing to create adaptive tools that have enabled her to play her violin comfortably and independently once again.
 
 If that sounds like an expensive hobby to take up, please read on to learn how I used free web applications for design and accessed 3D printers at public library makerspaces, investing only my own time to learn how to make it happen.
 
@@ -18,16 +18,7 @@ If that sounds like an expensive hobby to take up, please read on to learn how I
     <figcaption>Our family, celebrating Tiana's 10th birthday in early 2022. Clockwise from top: Vincent, Roland, Tiana, Sayaka.</figcaption>
 </figure>
 
-TODO: put into chronological order
-
-On June 6, 2022, our daughter Tiana, 10 years old at the time, suffered a severe stroke when an arteriovenous malformation (AVM) in her brain ruptured. She was hospitalised at the Royal Children's Hospital (RCH), and survived a complex 11-hour operation in which her AVM was removed. Although the surgery was a huge success, the stroke had taken away all of Tiana's independence in an instant. The entire left side of her body was completely paralysed, leaving her unable to walk, sit, eat, drink, smile, or even turn her head. 
-
-<figure>
-    <img src="assets/img/picu.jpg" alt="Girl lying in hospital bed with bandaged head"/>
-    <figcaption>Tiana recovering in PICU after major brain surgery.</figcaption>
-</figure>
-
-It was actually Tiana's second time undergoing brain surgery at RCH. Before she had been born, antenatal ultrasounds had revealed a lymphangioma in Tiana's neck and chest which had the potential to causes breathing issues. To our relief, the lymphangioma did not give her any trouble then, and still hasn't. It is still there, and is unlikely to cause any problems in the future. It did, however, set off a series of medical imaging procedures on newborn Tiana, in which the results of an MRI raised alarms.
+Tiana's medical journey started from before she was born. An antenatal ultrasound had revealed a lymphangioma in Tiana's neck and chest which had the potential to causes breathing issues. To our relief, the lymphangioma did not give her any trouble then, and still hasn't. It is still there, and is unlikely to cause any problems in the future. It did, however, set off a series of medical imaging procedures on newborn Tiana, in which the results of an MRI raised alarms.
 
 The scan had identified an arteriovenous fistula (AVF) in Tiana's brain that threatened to haemorrhage, which could cause a stroke or death. She was placed under the care of neurosurgeon Dr Alison Wray at RCH. Dr Wray planned to wait until Tiana was 5 months old, then ligate the AVF surgically. She assured us that it was a relatively simple procedure, and after Googling her name and reading about some of her amazing work, we agreed to the operation. As terrifying as it was for us to put our tiny, precious daughter's life in the hands of someone else, we knew that she would be in the best of hands, in a brand new, world-class facility.
 
@@ -50,13 +41,24 @@ She had an impressive new scar that would eventually be mostly hidden by her hai
     <figcaption>3 year old Tiana welcoming newborn brother Roland to the world.</figcaption>
 </figure>
 
-From a young age, music has always been important to Tiana. My mother-in-law is a piano teacher, and has been teaching Tiana online from Japan for many years. Tiana has also been learning to play violin since grade 2 with her violin teacher Hilary.
+Music has always been important to Tiana. My mother-in-law is a piano teacher, and has been teaching Tiana online from Japan for many years. Tiana has also been learning to play violin since grade 2 with her violin teacher Hilary.
 
+<figure class="center">
+    <iframe width="400" height="225" src="https://www.youtube.com/embed/DS4W9yg_QD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcaption>Tiana, at age 6, performing at her first piano concert.
 
+In 2020, we received some shocking news. The routine MRIs had picked up an arteriovenous malformation (AVM) close to where her AVF had been. We learned that there was a small chance each year that it could rupture, causing a stroke. However, there are many people who live their whole lives with unruptured AVMs - some never even aware of their existence - and we hoped that Tiana would be lucky enough to be one of them. 
 
-We had been aware of Tiana's AVM since 2 years prior, and had known that there was a small chance that it could rupture. However, there are many people who live their whole lives with unruptured AVMs - some may never even be aware that they have them - and we had hoped that Tiana would be lucky enough to be one of them. We were terrified of what it would mean if it did rupture, and spent many nights fearing the worst.
+Due to the complexity and location of the malformation, pre-emptive surgical removal would be unacceptably risky, so it was decided that we would not treat it then, but continue to monitor it closely for any changes. We were terrified of what it would mean if it did rupture, and spent the next two years fearing the worst.
 
-When it happened to Tiana, that fear had come true, all too soon. We were shocked and grieved for everything that she had lost. We worried for her future. Would she ever be able to live independently? How would society treat her? Would she ever be able to play her violin again? Perhaps most importantly, what would Tiana think of herself having a disability?
+On June 6, 2022, Tiana, 10 years old at the time, those fears were finally realised. She was hospitalised at the Royal Children's Hospital (RCH), and survived a complex 11-hour operation in which her AVM was removed. Although the surgery was a huge success, the stroke had taken away all of Tiana's independence in an instant. The entire left side of her body was completely paralysed, leaving her unable to walk, sit, eat, drink, smile, or even turn her head. 
+
+<figure>
+    <img src="assets/img/picu.jpg" alt="Girl lying in hospital bed with bandaged head"/>
+    <figcaption>Tiana recovering in PICU after major brain surgery.</figcaption>
+</figure>
+
+We were shocked and grieved for everything that she had lost. We worried for her future. Would she ever be able to live independently? How would society treat her? Would she ever be able to play her violin again? Perhaps most importantly, what would Tiana think of herself having a disability?
 
 For 2.5 months, I stayed with her at RCH, through her recovery from surgery and the beginning of her rehabilitation. For many days, I would find myself awake at 4am, crying. When the tears stopped, I would walk down the darkened corridors of Kelpie Ward to the kitchen and make myself a cup of coffee. I would bring it back to our room and resume crying, hoping that the tears would stop before Tiana awoke. They usually didn't.
 
@@ -200,7 +202,7 @@ With access to the equipment in the makerspace, I thought that I could remove on
 
 <figure>
     <img src="assets/img/peg.jpg" alt="Close-up shot of violin showing bow guide attached"/>
-    <figcaption>3D printed peg holding bow guide.</figcaption>
+    <figcaption>3D printed peg, holding bow guide.</figcaption>
 </figure>
 
 Looking back at it now, I realise that there was little more than gravity and friction across a tiny contact area holding the bow guide in place. A small overhanging lip would have made the connection much more secure. At the time, it seemed to work well though, up until the moment it failed.
