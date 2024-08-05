@@ -3,6 +3,8 @@
 [Thingiverse profile](https://www.thingiverse.com/vekp)
 
 ### Table of contents
+{:.no_toc}
+
 * TOC
 {:toc}
 
