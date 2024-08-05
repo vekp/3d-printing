@@ -172,7 +172,7 @@ Then, since the 3D scanner had not been able to pick up the holes for the mounti
 
 <figure>
     <img src="assets/img/chin_rest_prototype.jpg" alt="A violin with a white chin rest"/>
-    <figcaption>The chin rest finally finished and installed on the violin.</figcaption>
+    <figcaption>First completed chin rest installed on the violin.</figcaption>
 </figure>
 
 After spending most of the day post-processing my first prototype, I glued some felt to the bottom and attached it to Tiana's violin, just in time to pick her up from school and take her to her violin lesson with Hilary. I mentioned the roughness of the surface, and Hilary suggested that she could cover it with a cloth facemask. It worked! I planned to repeat the process and create several different styles for her to try, so she could find the she would be most comfortable with.
@@ -241,6 +241,8 @@ Recalling the articulating pieces of Paul's dragon, I started looking into 3D pr
 Printing just the hinge by itself meant I could trial 5 designs in a single half hour print, quickly redesign and repeat, so it didn't take long to arrive at a hinge design that worked well. But that was just the beginning.
 I then had to design the rest of the bow guide.
 
+At this point, I realised that there some tasks, such as adding fillets or bevels to edges and adjusting part dimensions, that were quite difficult to achieve in Tinkercad. I decided to start learning to use [Onshape](https://www.onshape.com/), a parametric 3D CAD application. Similar to Tinkercad, it is a web app that runs in the browser, and most of its features are available for free.
+
 My first idea was to recreate the previous bow guide, but simply add a pair of hinges to allow the curved section to articulate. However, the looser clearances in the horizontal position meant that the bow guide would not hold tight to the fingerboard.
 
 My next attempt was to connect the two sides that gripped the fingerboard, and use a vertical stick joined with a single hinge to the centre. After trialling different widths to make it fit the fingerboard, this version stayed on better than the last, but we found that the bow would sometimes slip over the stick. I tried making the stick longer, but if it protruded past the bridge at all, it wouldn't fit in the case properly. Making it the maximum length I could, just touching the bridge when folder down, it still wasn't quite long enough.
@@ -249,19 +251,59 @@ Thinking of her original bow guide, the pencil/chopstick, I decided to try putti
 
 We found that the violin made quite noticeable scraping sounds when being played with the bow guide. Vibrations from the bow being rubbed against the PLA stick were being transmitted directly through the fingerboard to the violin body and amplified by the violin's body. I tried gluing a strip of felt to the stick, and while this helped reduce the noise when the wooden part of the bow scraped across it, when the hair rubbed across it, the added friction would create loud noises again.
 
-After going through a few other ideas, I finally printed a thin piece of PLA to give and smooth contact surface, and attached this to the stick of the bow guide with some pieces of rubber/felt furniture feet protectors sandwiched in between to dampen the vibrations. 
+After going through a few other ideas, I finally printed a thin piece of PLA to give it a smooth contact surface, and attached this to the stick of the bow guide with some pieces of rubber/felt furniture feet protectors sandwiched in between to dampen the vibrations. 
 
 TODO: Finish this bit, add photos
 
 ## Bow Grip
 
-# New section
+Tiana's first bow grip, put together with help from the AMBP, was made from some foam tubing fitted over her bow, combined with an [EaZyHold grip aid](https://eazyhold.com/).
+
+<figure>
+    <img src="assets/img/first_bow_grip.jpeg" alt="Red foam tubing and green strap attached to violin bow"/>
+    <figcaption>Tiana's first bow grip.</figcaption>
+</figure>
+
+This was a simple solution that worked really well, and Tiana was able to put it on by herself. However, the bright colours were quite noticeable, especially when the time came for AMBP's first concert in December 2023.
+
+<figure>
+    <img src="assets/img/ambp_concert.jpg" alt="Girl holding violin"/>
+    <figcaption>Tiana just before AMBP's first concert.</figcaption>
+</figure>
+
+Tiana was successful in her audition for a position in MYO's Melbourne Youth Junior Strings (MYJS) ensemble, starting in early 2024. Her concert attire would be completely black, so we thought that a black bow grip would make a better match for her outfit.
+
+I designed a grip to fit her bow, and I had it 3D printed in thermoplastic polyurethane (TPU), a flexible, durable plastic often used in items like phone cases.
+
+<figure>
+    <img src="assets/img/bow_grip_onshape.png" alt="Computer render of a bow grip"/>
+    <figcaption>Tiana's second bow grip, designed in Onshape.</figcaption>
+</figure>
+
+I had some difficulty in finding a suitable material to replace the EaZyHold, which was made of a very soft, stretchy, grippy silicone. We tried using elastic velcro straps, neoprene strapping, and eventually a silicone watch band, attached to the bow grip with some 3D printed mounting parts.
+
+<figure>
+    <img src="assets/img/bow_grip_tpu.webp" alt="Bow grip and watch band on violin bow"/>
+    <figcaption>Bow grip with watch band attached.</figcaption>
+</figure>
+
+Although Tiana didn't find it very comfortable, she put up with it for a while and even used it when she performed at a small concert her teacher Hilary organised.
 
 <figure class="center">
     <iframe width="400" height="711" src="https://www.youtube.com/embed/sVlaj-BPSoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <figcaption>Tiana performing solo at a violin concert.</figcaption>
 </figure>
 
+She eventually had enough, removed the watch band, and put the EaZyHold back on. Although it was a long shot, we thought we might reach out to the manufacturers of EaZyHold and ask if they might have any black, or other neutral coloured EaZyHold prototypes available that we could purchase.
+
+To our surprise, we received a response from Kerry Mellin, the original designer and founder of EaZyHold. She informed us that they actually had plans to release a black line of EaZyHolds in the coming months, with samples about to arrive from the manufacturer. She even offered to craft one by hand for Tiana for her to use until then! After sending her our details, she created one for us, and shipped it via express post to our door.
+
+<figure>
+    <img src="assets/img/black_eazyhold.png" alt="Girl playing adaptive violin"/>
+    <figcaption>Tiana using her custom made hand crafted black EaZyHold.</figcaption>
+</figure>
+
+The new custom made EaZyHold works perfectly, and Kerry's generous gift was incredibly inspirational and touching.
 
 # Reflection
 
