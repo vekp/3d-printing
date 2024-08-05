@@ -17,7 +17,7 @@ This is the story of my daughter Tiana, who suffered a debilitating stroke at ag
 
 If that sounds like an expensive hobby to take up, please read on to learn how I used free web applications for design and accessed 3D printers at public library makerspaces, investing only my own time to learn how to make it happen.
 
-## Tiana's stroke
+## Early days
 
 Tiana's medical journey started from before she was born. An antenatal ultrasound had revealed a lymphangioma in Tiana's neck and chest which had the potential to causes breathing issues. To our relief, the lymphangioma did not give her any trouble then, and still hasn't. It is still there, and is unlikely to cause any problems in the future. It did, however, set off a series of medical imaging procedures on newborn Tiana, in which the results of an MRI raised alarms.
 
@@ -57,6 +57,8 @@ Due to the complexity and location of the malformation, pre-emptive surgical rem
     <img src="assets/img/family_before_stroke.jpg" alt="A photo of a family of four"/>
     <figcaption>Our family, celebrating Tiana's 10th birthday in early 2022. Clockwise from top: Vincent, Roland, Tiana, Sayaka.</figcaption>
 </figure>
+
+## RCH
 
 On June 6, 2022, Tiana, 10 years old at the time, those fears were finally realised. She was hospitalised at the Royal Children's Hospital (RCH), and survived a complex 11-hour operation in which her AVM was removed. Although the surgery was a huge success, the stroke had taken away all of Tiana's independence in an instant. The entire left side of her body was completely paralysed, leaving her unable to walk, sit, eat, drink, smile, or even turn her head. 
 
@@ -125,7 +127,7 @@ We took every opportunity we could for Tiana to practise walking, and our rehab 
 
 Although it had only taken a couple of months for Tiana to walk again and begin regaining her independence, it is often much harder to recover movement in the fingers of the affected side following a stroke. So we had no idea whether she would ever be able to play or even hold the violin again, with the amount of strength and dexterity required in the fingers of the left hand. 
 
-## A career change
+## Turning point
 
 Shortly after discharge, as Tiana made her gradual return to school, I had a big decision to make. My workplace was undergoing a restructure at the time, and everyone in my department had been offered the chance to volunteer for a redundancy. We had all been given years of notice, and initially I had planned to turn down the offer and stay. With Tiana's stroke, I began to rethink my decision.
 
