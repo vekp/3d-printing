@@ -3,6 +3,7 @@
 [Thingiverse profile](https://www.thingiverse.com/vekp)
 
 ### Table of contents
+* TOC
 {:toc}
 
 # Our family's story 
