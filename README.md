@@ -45,7 +45,8 @@ Music has always been important to Tiana. My mother-in-law is a piano teacher, a
 
 <figure class="center">
     <iframe width="400" height="225" src="https://www.youtube.com/embed/DS4W9yg_QD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <figcaption>Tiana, at age 6, performing at her first piano concert.
+    <figcaption>Tiana, at age 6, performing at her first piano concert.</figcaption>
+</figure>
 
 In 2020, we received some shocking news. The routine MRIs had picked up an arteriovenous malformation (AVM) close to where her AVF had been. We learned that there was a small chance each year that it could rupture, causing a stroke. However, there are many people who live their whole lives with unruptured AVMs - some never even aware of their existence - and we hoped that Tiana would be lucky enough to be one of them. 
 
