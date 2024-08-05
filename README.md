@@ -13,11 +13,6 @@ If that sounds like an expensive hobby to take up, please read on to learn how I
 
 ## Tiana's stroke
 
-<figure>
-    <img src="assets/img/family_before_stroke.jpg" alt="A photo of a family of four"/>
-    <figcaption>Our family, celebrating Tiana's 10th birthday in early 2022. Clockwise from top: Vincent, Roland, Tiana, Sayaka.</figcaption>
-</figure>
-
 Tiana's medical journey started from before she was born. An antenatal ultrasound had revealed a lymphangioma in Tiana's neck and chest which had the potential to causes breathing issues. To our relief, the lymphangioma did not give her any trouble then, and still hasn't. It is still there, and is unlikely to cause any problems in the future. It did, however, set off a series of medical imaging procedures on newborn Tiana, in which the results of an MRI raised alarms.
 
 The scan had identified an arteriovenous fistula (AVF) in Tiana's brain that threatened to haemorrhage, which could cause a stroke or death. She was placed under the care of neurosurgeon Dr Alison Wray at RCH. Dr Wray planned to wait until Tiana was 5 months old, then ligate the AVF surgically. She assured us that it was a relatively simple procedure, and after Googling her name and reading about some of her amazing work, we agreed to the operation. As terrifying as it was for us to put our tiny, precious daughter's life in the hands of someone else, we knew that she would be in the best of hands, in a brand new, world-class facility.
@@ -52,6 +47,11 @@ In 2020, we received some shocking news. The routine MRIs had picked up an arter
 
 Due to the complexity and location of the malformation, pre-emptive surgical removal would be unacceptably risky, so it was decided that we would not treat it then, but continue to monitor it closely for any changes. We were terrified of what it would mean if it did rupture, and spent the next two years fearing the worst.
 
+<figure>
+    <img src="assets/img/family_before_stroke.jpg" alt="A photo of a family of four"/>
+    <figcaption>Our family, celebrating Tiana's 10th birthday in early 2022. Clockwise from top: Vincent, Roland, Tiana, Sayaka.</figcaption>
+</figure>
+
 On June 6, 2022, Tiana, 10 years old at the time, those fears were finally realised. She was hospitalised at the Royal Children's Hospital (RCH), and survived a complex 11-hour operation in which her AVM was removed. Although the surgery was a huge success, the stroke had taken away all of Tiana's independence in an instant. The entire left side of her body was completely paralysed, leaving her unable to walk, sit, eat, drink, smile, or even turn her head. 
 
 <figure>
@@ -63,10 +63,8 @@ We were shocked and grieved for everything that she had lost. We worried for her
 
 For 2.5 months, I stayed with her at RCH, through her recovery from surgery and the beginning of her rehabilitation. For many days, I would find myself awake at 4am, crying. When the tears stopped, I would walk down the darkened corridors of Kelpie Ward to the kitchen and make myself a cup of coffee. I would bring it back to our room and resume crying, hoping that the tears would stop before Tiana awoke. They usually didn't.
 
-TODO: Reword  
- When I started talking to other parents in the ward, I began to realise that Tiana was not alone in her suffering. Kelpie Ward was shared between rehab patients like Tiana, cancer patients and mental health patients. Although everyone's experience was unique, there was a real sense of community and we all supported each other through our stays.
+When I started talking to other parents in the ward, I began to realise that Tiana was not alone in her suffering. Kelpie Ward was shared between rehab patients like Tiana, cancer patients and mental health patients. Although everyone's experience was unique, there was a real sense of community and we all supported each other through our stays.
 
-TODO: Reword  
 I would often read to Tiana in those early days. Initially we just read fiction as a way to escape our situation, but then I came across the [RCH patient stories](https://www.goodfridayappeal.com.au/stories/) on the Good Friday Appeal website, and we started reading them, finding out about the many amazing ways RCH had helped other kids. Sometimes we were saddened to read the stories about kids with degenerative diseases such as muscular dystrophy. We started realising how incredibly fortunate we were to be in such a facility as RCH. 
 
 The incredible positivity of the staff there was overwhelming, and we eventually stopped grieving our losses and learnt how important it was to stay optimistic, celebrate all of Tiana's achievements, big and small, and just focus on hitting the next goal.
@@ -117,7 +115,7 @@ The music therapy room was full of instruments for us to try, including a banana
     <figcaption>Tiana walks out of Kelpie Ward at the end of her 2.5 month stay.</figcaption>
 </figure>
 
-We took every opportunity we could for Tiana to practise walking, and our rehab doctor soon took notice of her amazing progress and moved up her discharge date by two weeks. When the day finally arrived, watching her walk out of the ward to the cheers of her therapy team and the ward staff was one of our proudest moments.
+We took every opportunity we could for Tiana to practise walking, and our rehab doctor soon took notice of her amazing progress and brought her discharge date forward by two weeks. When the day finally arrived, watching her walk out of the ward to the cheers of her therapy team and the ward staff was one of our proudest moments.
 
 Although it had only taken a couple of months for Tiana to walk again and begin regaining her independence, it is often much harder to recover movement in the fingers of the affected side following a stroke. So we had no idea whether she would ever be able to play or even hold the violin again, with the amount of strength and dexterity required in the fingers of the left hand. 
 
@@ -243,7 +241,7 @@ I then had to design the rest of the bow guide.
 
 At this point, I realised that there some tasks, such as adding fillets or bevels to edges and adjusting part dimensions, that were quite difficult to achieve in Tinkercad. I decided to start learning to use [Onshape](https://www.onshape.com/), a parametric 3D CAD application. Similar to Tinkercad, it is a web app that runs in the browser, and most of its features are available for free.
 
-My first idea was to recreate the previous bow guide, but simply add a pair of hinges to allow the curved section to articulate. However, the looser clearances in the horizontal position meant that the bow guide would not hold tight to the fingerboard.
+My first idea was to recreate the previous bow guide, adding a pair of hinges to allow the curved section to articulate. However, the looser clearances in the horizontal position meant that the bow guide would not hold tight to the fingerboard.
 
 My next attempt was to connect the two sides that gripped the fingerboard, and use a vertical stick joined with a single hinge to the centre. After trialling different widths to make it fit the fingerboard, this version stayed on better than the last, but we found that the bow would sometimes slip over the stick. I tried making the stick longer, but if it protruded past the bridge at all, it wouldn't fit in the case properly. Making it the maximum length I could, just touching the bridge when folder down, it still wasn't quite long enough.
 
@@ -273,7 +271,7 @@ This was a simple solution that worked really well, and Tiana was able to put it
 
 Tiana was successful in her audition for a position in MYO's Melbourne Youth Junior Strings (MYJS) ensemble, starting in early 2024. Her concert attire would be completely black, so we thought that a black bow grip would make a better match for her outfit.
 
-I designed a grip to fit her bow, and I had it 3D printed in thermoplastic polyurethane (TPU), a flexible, durable plastic often used in items like phone cases.
+I designed a grip to fit her bow, and I had it 3D printed in thermoplastic polyurethane (TPU), a flexible, durable plastic often used in items like phone cases. As the library makerspaces only had PLA on hand, I took my design to the University of Melbourne's [Next Lab](https://ms-kb.msd.unimelb.edu.au/next-lab) for printing.
 
 <figure>
     <img src="assets/img/bow_grip_onshape.png" alt="Computer render of a bow grip"/>
@@ -326,5 +324,6 @@ There are so many people and organisations who have supported us, including:
 * Music teachers
 * School teachers
 * City of Melbourne Libraries
+* University of Melbourne - Next Lab
 * Family
 * Friends
