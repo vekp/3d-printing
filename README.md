@@ -199,7 +199,7 @@ After scanning and printing several different chin rests, I was finally able to 
 ## Bow guide
 *To allow Tiana to setup her violin independently*
 
-Model vailable on [Thingiverse](https://www.thingiverse.com/thing:6664899)
+Model available on [Thingiverse](https://www.thingiverse.com/thing:6664899)
 
 The chopstick and rubber bands had been working great to help Tiana keep her bow in position. They had to be installed and removed each time Tiana played the violin, since they wouldn't fit as fitted in the case. Rubber bands would often fly off during the process, and it was impossible to install without using two hands. Tiana needed someone else to do it for her each time.
 
@@ -278,7 +278,7 @@ After going through a few other ideas, I finally printed a thin piece of PLA to 
 
 ## Bow Grip
 
-Model vailable on [Thingiverse](https://www.thingiverse.com/thing:6664910)
+Model available on [Thingiverse](https://www.thingiverse.com/thing:6664910)
 
 Tiana's first bow grip, put together with help from the AMBP, was made from some foam tubing fitted over her bow, combined with an [EaZyHold grip aid](https://eazyhold.com/).
 
@@ -334,9 +334,13 @@ There are times when I blame myself for Tiana’s stroke. In these moments, I im
 
 In times like these, I look at Tiana and I realise that she understands better than I do, the futility of finding someone to blame for your problems. I see the way she has taken those opportunities that have arisen from her setbacks. I see the pride in her face as she brings her violin to the living room to show us how much better she’s getting at the new song she’s learning. I see the pure effort she puts into her exercises, willing those stubborn fingers to open a fraction wider. And I hear her laugh as she recounts the antics of her group of high school friends. 
 
-I wonder if she will end up making music that will change the world, and I realise that she already has. I know I am not the only one she has inspired to help create a brighter future.
+I wonder if she will end up making music that will change the world, and I realise that she already has. I know I am not the only one she has inspired to help create a brighter future. I realise how fortunate I am to be part of her story.
 
-I realise how extremely fortunate I am to be part of her story.
+I hope you can find some inspiration in this story too. Are you facing challenges that are holding you back from achieving your goals? Perhaps a solution already exists, like some foam tubing or an EaZyHold grip aid. If not, can you imagine a solution yourself? Can you learn the skills and access the right equipment to make your idea a reality, or will you reach out to the community, share your story, and find out what kind of support is available?
+
+Not everyone is lucky enough to have access to the resources I have had, but maker tech like 3D printers is quickly becoming cheaper, easier to use and more accessible. On demand 3D printing services are also able to manufacture your designs within hours.
+
+Learning to design and 3D print Tiana's violin modifications has made a huge difference to our lives and empowered us to continue to follow our dreams.
 
 # Acknowledgements
 
