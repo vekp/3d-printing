@@ -199,6 +199,8 @@ After scanning and printing several different chin rests, I was finally able to 
 ## Bow guide
 *To allow Tiana to setup her violin independently*
 
+Model vailable on [Thingiverse](https://www.thingiverse.com/thing:6664899)
+
 The chopstick and rubber bands had been working great to help Tiana keep her bow in position. They had to be installed and removed each time Tiana played the violin, since they wouldn't fit as fitted in the case. Rubber bands would often fly off during the process, and it was impossible to install without using two hands. Tiana needed someone else to do it for her each time.
 
 With Tiana in her final year of primary school, we wanted her to be able to do as many things as possible independently, so I start thinking of ways to make her violin easier to setup, with the goal of her being able to do it completely by herself.
@@ -274,9 +276,9 @@ After going through a few other ideas, I finally printed a thin piece of PLA to 
     <figcaption>Bow guide design.</figcaption>
 </figure>
 
-TODO: Finish this bit, add photos
-
 ## Bow Grip
+
+Model vailable on [Thingiverse](https://www.thingiverse.com/thing:6664910)
 
 Tiana's first bow grip, put together with help from the AMBP, was made from some foam tubing fitted over her bow, combined with an [EaZyHold grip aid](https://eazyhold.com/).
 
@@ -319,12 +321,12 @@ She eventually had enough, removed the watch band, and put the EaZyHold back on.
 
 To our surprise, we received a response from Kerry Mellin, the original designer and founder of EaZyHold. She informed us that they actually had plans to release a black line of EaZyHolds in the coming months, with samples about to arrive from the manufacturer. She even offered to craft one by hand for Tiana for her to use until then! After sending her our details, she created one for us, and shipped it via express post to our door.
 
-<figure>
-    <img src="assets/img/black_eazyhold.png" alt="Girl playing adaptive violin"/>
+<figure class="center">
+    <iframe width="400" height="247" src="https://www.youtube.com/embed/EVvDpKX1lZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <figcaption>Tiana using her custom made hand crafted black EaZyHold.</figcaption>
 </figure>
 
-The new custom made EaZyHold works perfectly, and Kerry's generous gift was incredibly inspirational and touching.
+The new custom made EaZyHold works perfectly, and Kerry's generosity was incredibly inspirational and touching. 
 
 # Reflection
 
