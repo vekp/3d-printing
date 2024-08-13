@@ -1,5 +1,7 @@
 **Please note: This story is a work in progress and subject to change. I will announce when it is complete.**
 
+*Vincent Ekpanyaskun, July 2024*
+
 [Thingiverse profile](https://www.thingiverse.com/vekp)
 
 ### Table of contents
@@ -8,8 +10,12 @@
 * TOC
 {:toc}
 
-# Our family's story 
-*Vincent Ekpanyaskun, July 2024*
+
+# Our family's story
+
+<details>
+<summary>Click to expand
+</summary>
 
 I am sharing my family's story in the hope that it will inspire those facing setbacks and challenges, educate them about the potential of maker technologies like 3D printing, and encourage them to seek out the support they need to learn new skills that can empower them to overcome their challenges, improve their lives, and achieve their goals.
 
@@ -161,7 +167,13 @@ Anh is an engineer, and she suggested that I 3D scan and 3D print a reversed chi
 
 In October 2023, I booked myself in for a safety induction at [Kathleen Syme Library and Community Centre](https://www.melbourne.vic.gov.au/community/hubs-bookable-spaces/kathleen-syme-library-and-community-centre/Pages/kathleen-syme-library.aspx), and with the help of the makerspace staff, I had soon 3D scanned a chin rest, mirrored it in a slicer, and had my very first 3D print going.
 
+</details>
+
 # 3D Printing Projects
+
+<details>
+<summary>Click to expand
+</summary>
 
 ## Chin rest
 *To allow Tiana to play violin in comfort*
@@ -327,6 +339,8 @@ To our surprise, we received a response from Kerry Mellin, the original designer
 </figure>
 
 The new custom made EaZyHold works perfectly, and Kerry's generosity was incredibly inspirational and touching. 
+
+</details>
 
 # Reflection
 
