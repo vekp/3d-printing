@@ -14,8 +14,8 @@
 # Our family's story
 
 <details>
-<summary>Click to expand
-</summary>
+
+<summary>Click to expand</summary>
 
 I am sharing my family's story in the hope that it will inspire those facing setbacks and challenges, educate them about the potential of maker technologies like 3D printing, and encourage them to seek out the support they need to learn new skills that can empower them to overcome their challenges, improve their lives, and achieve their goals.
 
@@ -172,8 +172,8 @@ In October 2023, I booked myself in for a safety induction at [Kathleen Syme Lib
 # 3D Printing Projects
 
 <details>
-<summary>Click to expand
-</summary>
+
+<summary>Click to expand</summary>
 
 ## Chin rest
 *To allow Tiana to play violin in comfort*
