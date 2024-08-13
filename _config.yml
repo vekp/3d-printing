@@ -3,3 +3,5 @@ title: 3D Printing
 # description: text below image
 # show_downloads: true
 theme: jekyll-theme-minimal
+kramdown:
+  input: Kramdown
