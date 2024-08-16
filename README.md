@@ -356,6 +356,12 @@ Not everyone is lucky enough to have access to the resources I have had, but mak
 
 Learning to design and 3D print Tiana's violin modifications has made a huge difference to our lives and empowered us to continue to follow our dreams.
 
+# Resources
+
+https://www.melbourne.vic.gov.au/makerspaces  
+https://www.tinkercad.com  
+https://www.onshape.com  
+[Teaching Tech Onshape tutorials](https://www.youtube.com/playlist?list=PLGqRUdq5ULsMDOxmu10AGPDIOkzNYu7D7)
 # Acknowledgements
 
 There are so many people and organisations who have supported us, including:
