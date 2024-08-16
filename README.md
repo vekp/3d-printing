@@ -15,7 +15,9 @@
 
 <details>
 
-<summary>Click to expand</summary>
+<summary>
+    Click to expand
+</summary>
 
 I am sharing my family's story in the hope that it will inspire those facing setbacks and challenges, educate them about the potential of maker technologies like 3D printing, and encourage them to seek out the support they need to learn new skills that can empower them to overcome their challenges, improve their lives, and achieve their goals.
 
