@@ -15,8 +15,7 @@
 
 <details>
 
-<summary>
-Click to expand
+<summary>Click to expand
 </summary>
 
 I am sharing my family's story in the hope that it will inspire those facing setbacks and challenges, educate them about the potential of maker technologies like 3D printing, and encourage them to seek out the support they need to learn new skills that can empower them to overcome their challenges, improve their lives, and achieve their goals.
@@ -191,8 +190,7 @@ In October 2023, I booked myself in for a safety induction at [Kathleen Syme Lib
 
 <details>
 
-<summary>
-Click to expand
+<summary>Click to expand
 </summary>
 
 ## Chin rest
@@ -384,8 +382,7 @@ The new custom made EaZyHold works perfectly, and Kerry's generosity was incredi
 
 <details>
 
-<summary>
-Click to expand
+<summary>Click to expand
 </summary>
 
 There are times when I blame myself for Tiana’s stroke. In these moments, I imagine an alternate version of events where I say just the right words to a doctor or nurse, and that triggers a series of events leading to them deciding to remove Tiana’s AVM before it has a chance to rupture and cause her stroke. The surgery is a great success, and she never suffers from paralysis, never has to deal with the endless hours of appointments with therapists and home rehab exercises, the pain caused by an orthotic that doesn’t quite fit perfectly, having to make sure she has an adult with her every time she takes the stairs. We never need to spend days looking up different kinds of therapy, comparing their effectiveness on stroke patients, trying to find the best team to help her get an extra millimetre of movement from the fingers of her left hand. She never needs to struggle with tying her hair, or getting in or out of the car while holding her heavy backpack. And she doesn’t need to fear the crippling exhaustion of cognitive fatigue that can strike at any time without warning. We wouldn’t need to worry about whether people will judge her by the way she walks or the way she moves her left arm or how long it takes her to open a bottle, bullying or excluding her before even giving her a chance.
@@ -404,10 +401,18 @@ Learning to design and 3D print Tiana's violin modifications has made a huge dif
 
 # Resources
 
-https://www.melbourne.vic.gov.au/makerspaces  
-https://www.tinkercad.com  
-https://www.onshape.com  
-[Teaching Tech Onshape tutorials](https://www.youtube.com/playlist?list=PLGqRUdq5ULsMDOxmu10AGPDIOkzNYu7D7)
+### [City of Melbourne Library Makerspaces](https://www.melbourne.vic.gov.au/makerspaces)
+3D printers and a scanner, laser cutters, vinyl cutters, heat presses, sewing machines - all free to use! Limited amounts of material also available for free. Learning is mostly self-directed, but friendly staff can point you in the right directed and assist where needed.
+
+### [Tinkercad](https://www.tinkercad.com)
+Popular free, easy to use 3D modelling web app. Design anything just by dragging and dropping components, resizing, and grouping. 
+
+### [Onshape](https://www.onshape.com)
+Parametric CAD web app. Free tier is full-featured, but doesn't allow you to keep your designs private.
+
+### [Youtube - Teaching Tech Onshape tutorials](https://www.youtube.com/playlist?list=PLGqRUdq5ULsMDOxmu10AGPDIOkzNYu7D7)
+Official Onshape tutorials drop you in the deep end, so I much preferred this series of tutorials from Teaching Tech for learning the basics.
+
 # Acknowledgements
 
 There are so many people and organisations who have supported us, including:
