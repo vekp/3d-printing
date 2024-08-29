@@ -50,15 +50,19 @@ Tiana back at home.
 She had an impressive new scar that would eventually be mostly hidden by her hair, and she needed regular ongoing MRIs to monitor the blood vessels in her head, but otherwise led a pretty normal life, unaffected by and mostly unaware of the all the dramas that had occurred.
 
 <figure>
-    <img src="assets/img/tiana_and_baby_roland.jpg" alt="Young girl holding a baby boy"/>
-    <figcaption>3 year old Tiana welcoming newborn brother Roland to the world.</figcaption>
+<img src="assets/img/tiana_and_baby_roland.jpg" alt="Young girl holding a baby boy"/>
+<figcaption>
+3 year old Tiana welcoming newborn brother Roland to the world.
+</figcaption>
 </figure>
 
 Music has always been important to Tiana. My mother-in-law is a piano teacher, and has been teaching Tiana online from Japan for many years. Tiana has also been learning to play violin since grade 2 with her violin teacher Hilary.
 
 <figure class="center">
-    <iframe width="400" height="225" src="https://www.youtube.com/embed/DS4W9yg_QD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <figcaption>Tiana, at age 6, performing at her first piano concert.</figcaption>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/DS4W9yg_QD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+<figcaption>Tiana, at age 6, performing at her first piano concert.
+</figcaption>
 </figure>
 
 In 2020, we received some shocking news. The routine MRIs had picked up an arteriovenous malformation (AVM) close to where her AVF had been. We learned that there was a small chance each year that it could rupture, causing a stroke. However, there are many people who live their whole lives with unruptured AVMs - some never even aware of their existence - and we hoped that Tiana would be lucky enough to be one of them. 
