@@ -197,9 +197,10 @@ In October 2023, I booked myself in for a safety induction at [Kathleen Syme Lib
 *To allow Tiana to play violin in comfort*
 
 <figure>
-    <img src="assets/img/chin_rest_printing.jpg" alt="A 3D printer printing a chin rest" width="300"/>
-    <img src="assets/img/chin_rest_rough.jpg" alt="A chin rest with rough surface" width="300"/>
-    <figcaption>My first 3D print.</figcaption>
+<img src="assets/img/chin_rest_printing.jpg" alt="A 3D printer printing a chin rest" width="300"/>
+<img src="assets/img/chin_rest_rough.jpg" alt="A chin rest with rough surface" width="300"/>
+<figcaption>My first 3D print.
+</figcaption>
 </figure>
 
 To minimise the amount of support material, I had printed the chin rest with the top surface, the one that would be in contact with Tiana's skin, facing down. I had not realised that after removing supports, that it would leave such a rough surface. So I spent several hours trying to sand down the surface to make it comfortable to use, finding out how hard the plastic is to work with. I got it to the point where I didn't think it would cut into her skin, but it was still extremely rough and I was somewhat disappointed with the result. 
@@ -207,8 +208,9 @@ To minimise the amount of support material, I had printed the chin rest with the
 Then, since the 3D scanner had not been able to pick up the holes for the mounting hardware, I had to drill some holes into it. I had assumed it would be as simple as drilling into wood, but soon realised that I was mistaken. Polylactic acid (PLA), the material most commonly used in 3D printing, is very hard and resistant to drilling. The heat generated from drilling can also melt the plastic, causing it to stick to the drill bit. I eventually managed to drill two small holes for the mounting screws, but it took so much longer than I had expected.
 
 <figure>
-    <img src="assets/img/chin_rest_prototype.jpg" alt="A violin with a white chin rest"/>
-    <figcaption>First completed chin rest installed on the violin.</figcaption>
+<img src="assets/img/chin_rest_prototype.jpg" alt="A violin with a white chin rest"/>
+<figcaption>First completed chin rest installed on the violin.
+</figcaption>
 </figure>
 
 After spending most of the day post-processing my first prototype, I glued some felt to the bottom and attached it to Tiana's violin, just in time to pick her up from school and take her to her violin lesson with Hilary. I mentioned the roughness of the surface, and Hilary suggested that she could cover it with a cloth facemask. It worked! I planned to repeat the process and create several different styles for her to try, so she could find the she would be most comfortable with.
@@ -220,8 +222,10 @@ Lessons learned:
 I ended up learning to use [Tinkercad](https://www.tinkercad.com/). Tinkercad is a free to use app that runs in a web browser. With a simple drag-and-drop interface, it really is easy enough for anyone to learn. I used it to add holes to the chin rest before printing. I also took the opportunity to add Tiana's engraved name to the design. 
 
 <figure class="center">
-    <iframe width="400" height="300" src="https://www.youtube.com/embed/aJx3tQBNC9o?si=WgU2FdHN143SzFtV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <figcaption>Tiana's final chin rest getting 3D printed.</figcaption>
+<iframe width="400" height="300" src="https://www.youtube.com/embed/aJx3tQBNC9o?si=WgU2FdHN143SzFtV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+<figcaption>Tiana's final chin rest getting 3D printed.
+</figcaption>
 </figure>
 
 After scanning and printing several different chin rests, I was finally able to create one that was comfortable for Tiana to use, and looked nice enough for her to perform with.
@@ -240,8 +244,9 @@ Anthea from the AMBP had kindly given us a Horace bow guide to try. It has two p
 With access to the equipment in the makerspace, I thought that I could remove one rail from the bow guide so that it would allow for some imprecision but still support the bow's weight. One of the feet ended up getting in the way of her bow, so I cut that one off, and designed and printed a small peg, held in place with pieces of the discarded foot shoved into the f-hole to help hold the bow guide in place.
 
 <figure>
-    <img src="assets/img/peg.jpg" alt="Close-up shot of violin showing bow guide attached"/>
-    <figcaption>3D printed peg, holding bow guide.</figcaption>
+<img src="assets/img/peg.jpg" alt="Close-up shot of violin showing bow guide attached"/>
+<figcaption>3D printed peg, holding bow guide.
+</figcaption>
 </figure>
 
 Looking back at it now, I realise that there was little more than gravity and friction across a tiny contact area holding the bow guide in place. A small overhanging lip would have made the connection much more secure. At the time, it seemed to work well though, up until the moment it failed.
@@ -249,8 +254,9 @@ Looking back at it now, I realise that there was little more than gravity and fr
 Tiana had just finished speaking in front of hundreds of students, parents and teachers at school assembly, having just announced the final tally of a Stroke Foundation fundraiser that she taken part in. She was about to follow this up with her first violin performance since suffering her stroke. 
 
 <figure>
-    <img src="assets/img/assembly.jpg" alt="A girl playing a violin"/>
-    <figcaption>Tiana plays violin in her first post-stroke performance at school assembly, December 2023.</figcaption>
+<img src="assets/img/assembly.jpg" alt="A girl playing a violin"/>
+<figcaption>Tiana plays violin in her first post-stroke performance at school assembly, December 2023.
+</figcaption>
 </figure>
 
 As she was getting ready to play the first note, just a light tap from the bow led to the bow guide becoming dislodged and falling to the ground. There couldn't have been a worse time for this to happen. Nervous as she already was, she picked it up and set it up again with the entire school community watching. It shook her up, but she bravely soldiered on and managed to get through to the end of the song. But it wasn't quite the comeback performance she'd hoped for, and she was disappointed with how it went, understandably reluctant to perform in front of people ever again.
@@ -262,8 +268,9 @@ With two more upcoming concerts in the following weeks, Tiana kept practising, a
 Browsing Thingiverse for ideas, I came across MissyMoo9's [Violin Bow Guide](https://www.thingiverse.com/thing:3344626). It looked like it would be easy enough to attach to the fingerboard with a single hand, so I created a modified version for Tiana by removing one of its rails.
 
 <figure>
-    <img src="assets/img/modded_bow_guide.png" alt="A computer render of a bow guide"/>
-    <figcaption>Modified version of MissyMoo9's Violin Bow Guide, created in Tinkercad.</figcaption>
+<img src="assets/img/modded_bow_guide.png" alt="A computer render of a bow guide"/>
+<figcaption>Modified version of MissyMoo9's Violin Bow Guide, created in Tinkercad.
+</figcaption>
 </figure>
 
 It was initially quite loose, but with some heat from a hair dryer to soften the PLA and some strategic squeezing, I managed to get it to fit securely enough.
@@ -272,8 +279,9 @@ While this did the job well for a while, I started thinking of ways to make it e
 Recalling the articulating pieces of Paul's dragon, I started looking into 3D printed hinge design. Still using Tinkercad, I modelled and printed a few designs, along with different clearances, to find the best fit. I wanted to make a hinge that would stay in the upright position without falling down accidentally, so I designed it with tighter clearances and a pressed fit.
 
 <figure>
-    <img src="assets/img/hinges.png" alt="A computer render of some hinges"/>
-    <figcaption>Trialling different hinge designs and clearances.</figcaption>
+<img src="assets/img/hinges.png" alt="A computer render of some hinges"/>
+<figcaption>Trialling different hinge designs and clearances.
+</figcaption>
 </figure>
 
 Printing just the hinge by itself meant I could trial 5 designs in a single half hour print, quickly redesign and repeat, so it didn't take long to arrive at a hinge design that worked well. But that was just the beginning.
@@ -284,15 +292,17 @@ At this point, I realised that there some tasks, such as adding fillets or bevel
 My first idea was to recreate the previous bow guide, adding a pair of hinges to allow the curved section to articulate. However, the looser clearances in the horizontal position meant that the bow guide would not hold tight to the fingerboard.
 
 <figure>
-    <img src="assets/img/bow_guide_tink.png" alt="A computer render of a bow guide"/>
-    <figcaption>Bow guide design.</figcaption>
+<img src="assets/img/bow_guide_tink.png" alt="A computer render of a bow guide"/>
+<figcaption>Bow guide design.
+</figcaption>
 </figure>
 
 My next attempt was to connect the two sides that gripped the fingerboard, and use a vertical stick joined with a single hinge to the centre. After trialling different widths to make it fit the fingerboard, this version stayed on better than the last, but we found that the bow would sometimes slip over the stick. I tried making the stick longer, but if it protruded past the bridge at all, it wouldn't fit in the case properly. Making it the maximum length I could, just touching the bridge when folder down, it still wasn't quite long enough.
 
 <figure>
-    <img src="assets/img/bow_guide_centre.png" alt="A computer render of a bow guide"/>
-    <figcaption>Bow guide design.</figcaption>
+<img src="assets/img/bow_guide_centre.png" alt="A computer render of a bow guide"/>
+<figcaption>Bow guide design.
+</figcaption>
 </figure>
 
 Thinking of her original bow guide, the pencil/chopstick, I decided to try putting the stick on the right side of the strings instead of the centre, allowing it to be extra long, but still able to lie flat next to the bridge. This worked much better.
@@ -302,8 +312,9 @@ We found that the violin made quite noticeable scraping sounds when being played
 After going through a few other ideas, I finally printed a thin piece of PLA to give it a smooth contact surface, and attached this to the stick of the bow guide with some pieces of rubber/felt furniture feet protectors sandwiched in between to dampen the vibrations. 
 
 <figure>
-    <img src="assets/img/bow_guide_final.png" alt="A computer render of a bow guide"/>
-    <figcaption>Bow guide design.</figcaption>
+<img src="assets/img/bow_guide_final.png" alt="A computer render of a bow guide"/>
+<figcaption>Bow guide design.
+</figcaption>
 </figure>
 
 ## Bow Grip
@@ -313,15 +324,17 @@ Model available on [Thingiverse](https://www.thingiverse.com/thing:6664910)
 Tiana's first bow grip, put together with help from the AMBP, was made from some foam tubing fitted over her bow, combined with an [EaZyHold grip aid](https://eazyhold.com/).
 
 <figure>
-    <img src="assets/img/first_bow_grip.jpeg" alt="Red foam tubing and green strap attached to violin bow"/>
-    <figcaption>Tiana's first bow grip.</figcaption>
+<img src="assets/img/first_bow_grip.jpeg" alt="Red foam tubing and green strap attached to violin bow"/>
+<figcaption>Tiana's first bow grip.
+</figcaption>
 </figure>
 
 This was a simple solution that worked really well, and Tiana was able to put it on by herself. However, the bright colours were quite noticeable, especially when the time came for AMBP's first concert in December 2023.
 
 <figure>
-    <img src="assets/img/ambp_concert.jpg" alt="Girl holding violin"/>
-    <figcaption>Tiana just before AMBP's first concert.</figcaption>
+<img src="assets/img/ambp_concert.jpg" alt="Girl holding violin"/>
+<figcaption>Tiana just before AMBP's first concert.
+</figcaption>
 </figure>
 
 Tiana was successful in her audition for a position in MYO's Melbourne Youth Junior Strings (MYJS) ensemble, starting in early 2024. Her concert attire would be completely black, so we thought that a black bow grip would make a better match for her outfit.
@@ -329,22 +342,26 @@ Tiana was successful in her audition for a position in MYO's Melbourne Youth Jun
 I designed a grip to fit her bow, and I had it 3D printed in thermoplastic polyurethane (TPU), a flexible, durable plastic often used in items like phone cases. As the library makerspaces only had PLA on hand, I took my design to the University of Melbourne's [Next Lab](https://ms-kb.msd.unimelb.edu.au/next-lab) for printing.
 
 <figure>
-    <img src="assets/img/bow_grip_onshape.png" alt="Computer render of a bow grip"/>
-    <figcaption>Tiana's second bow grip, designed in Onshape.</figcaption>
+<img src="assets/img/bow_grip_onshape.png" alt="Computer render of a bow grip"/>
+<figcaption>Tiana's second bow grip, designed in Onshape.
+</figcaption>
 </figure>
 
 I had some difficulty in finding a suitable material to replace the EaZyHold, which was made of a very soft, stretchy, grippy silicone. We tried using elastic velcro straps, neoprene strapping, and eventually a silicone watch band, attached to the bow grip with some 3D printed mounting parts.
 
 <figure>
-    <img src="assets/img/bow_grip_tpu.webp" alt="Bow grip and watch band on violin bow"/>
-    <figcaption>Bow grip with watch band attached.</figcaption>
+<img src="assets/img/bow_grip_tpu.webp" alt="Bow grip and watch band on violin bow"/>
+<figcaption>Bow grip with watch band attached.
+</figcaption>
 </figure>
 
 Although Tiana didn't find it very comfortable, she put up with it for a while and even used it when she performed at a small concert her teacher Hilary organised.
 
 <figure class="center">
-    <iframe width="400" height="711" src="https://www.youtube.com/embed/sVlaj-BPSoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <figcaption>Tiana performing solo at a violin concert.</figcaption>
+<iframe width="400" height="711" src="https://www.youtube.com/embed/sVlaj-BPSoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+<figcaption>Tiana performing solo at a violin concert.
+</figcaption>
 </figure>
 
 She eventually had enough, removed the watch band, and put the EaZyHold back on. Although it was a long shot, we thought we might reach out to the manufacturers of EaZyHold and ask if they might have any black, or other neutral coloured EaZyHold prototypes available that we could purchase.
@@ -352,8 +369,9 @@ She eventually had enough, removed the watch band, and put the EaZyHold back on.
 To our surprise, we received a response from Kerry Mellin, the original designer and founder of EaZyHold. She informed us that they actually had plans to release a black line of EaZyHolds in the coming months, with samples about to arrive from the manufacturer. She even offered to craft one by hand for Tiana for her to use until then! After sending her our details, she created one for us, and shipped it via express post to our door.
 
 <figure class="center">
-    <iframe width="400" height="247" src="https://www.youtube.com/embed/EVvDpKX1lZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <figcaption>Tiana using her custom made hand crafted black EaZyHold.</figcaption>
+<iframe width="400" height="247" src="https://www.youtube.com/embed/EVvDpKX1lZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<figcaption>Tiana using her custom made hand crafted black EaZyHold.
+</figcaption>
 </figure>
 
 The new custom made EaZyHold works perfectly, and Kerry's generosity was incredibly inspirational and touching. 
@@ -361,6 +379,8 @@ The new custom made EaZyHold works perfectly, and Kerry's generosity was incredi
 </details>
 
 # Reflection
+
+<details>
 
 There are times when I blame myself for Tiana’s stroke. In these moments, I imagine an alternate version of events where I say just the right words to a doctor or nurse, and that triggers a series of events leading to them deciding to remove Tiana’s AVM before it has a chance to rupture and cause her stroke. The surgery is a great success, and she never suffers from paralysis, never has to deal with the endless hours of appointments with therapists and home rehab exercises, the pain caused by an orthotic that doesn’t quite fit perfectly, having to make sure she has an adult with her every time she takes the stairs. We never need to spend days looking up different kinds of therapy, comparing their effectiveness on stroke patients, trying to find the best team to help her get an extra millimetre of movement from the fingers of her left hand. She never needs to struggle with tying her hair, or getting in or out of the car while holding her heavy backpack. And she doesn’t need to fear the crippling exhaustion of cognitive fatigue that can strike at any time without warning. We wouldn’t need to worry about whether people will judge her by the way she walks or the way she moves her left arm or how long it takes her to open a bottle, bullying or excluding her before even giving her a chance.
 
@@ -373,6 +393,8 @@ I hope you can find some inspiration in this story too. Are you facing challenge
 Not everyone is lucky enough to have access to the resources I have had, but maker tech like 3D printers is quickly becoming cheaper, easier to use and more accessible. On demand 3D printing services are also able to manufacture your designs within hours.
 
 Learning to design and 3D print Tiana's violin modifications has made a huge difference to our lives and empowered us to continue to follow our dreams.
+
+</details>
 
 # Resources
 
