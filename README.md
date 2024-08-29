@@ -70,8 +70,9 @@ In 2020, we received some shocking news. The routine MRIs had picked up an arter
 Due to the complexity and location of the malformation, pre-emptive surgical removal would be unacceptably risky, so it was decided that we would not treat it then, but continue to monitor it closely for any changes. We were terrified of what it would mean if it did rupture, and spent the next two years fearing the worst.
 
 <figure>
-    <img src="assets/img/family_before_stroke.jpg" alt="A photo of a family of four"/>
-    <figcaption>Our family, celebrating Tiana's 10th birthday in early 2022. Clockwise from top: Vincent, Roland, Tiana, Sayaka.</figcaption>
+<img src="assets/img/family_before_stroke.jpg" alt="A photo of a family of four"/>
+<figcaption>Our family, celebrating Tiana's 10th birthday in early 2022. Clockwise from top: Vincent, Roland, Tiana, Sayaka.
+</figcaption>
 </figure>
 
 ## RCH
@@ -79,8 +80,9 @@ Due to the complexity and location of the malformation, pre-emptive surgical rem
 On June 6, 2022, Tiana, 10 years old at the time, those fears were finally realised. She was hospitalised at the Royal Children's Hospital (RCH), and survived a complex 11-hour operation in which her AVM was removed. Although the surgery was a huge success, the stroke had taken away all of Tiana's independence in an instant. The entire left side of her body was completely paralysed, leaving her unable to walk, sit, eat, drink, smile, or even turn her head. 
 
 <figure>
-    <img src="assets/img/picu.jpg" alt="Girl lying in hospital bed with bandaged head"/>
-    <figcaption>Tiana recovering in PICU after major brain surgery.</figcaption>
+<img src="assets/img/picu.jpg" alt="Girl lying in hospital bed with bandaged head"/>
+<figcaption>Tiana recovering in PICU after major brain surgery.
+</figcaption>
 </figure>
 
 We were shocked and grieved for everything that she had lost. We worried for her future. Would she ever be able to live independently? How would society treat her? Would she ever be able to play her violin again? Perhaps most importantly, what would Tiana think of herself having a disability?
@@ -96,15 +98,17 @@ The incredible positivity of the staff there was overwhelming, and we eventually
 With the support of her therapists and Tiana's perseverance, she gradually began to regain movement in her left side. Almost every day, she amazed us with some new muscle movement. Best of all, we got to see her initially one-sided smile get bigger and better with each day that passed.
 
 <figure>
-    <img src="assets/img/smile.jpg" alt="Girl smiling"/>
-    <figcaption>Tiana practising her smile.</figcaption>
+<img src="assets/img/smile.jpg" alt="Girl smiling"/>
+<figcaption>Tiana practising her smile.
+</figcaption>
 </figure>
 
 We celebrated Roland's 7th birthday a few weeks into our stay at RCH. With so much of our focus on Tiana and her recovery, we had been unable to give him much attention, and he had been spending a lot of time under the care of our extended family. Strict COVID policy made it difficult for us to bring him into the ward, but we were granted an exemption for his birthday. It was so nice for all of us to be together again to celebrate.
 
 <figure>
-    <img src="assets/img/birthday.jpg" alt="Family having birthday party outside"/>
-    <figcaption>Roland's 7th birthday and Tiana's first time outside since the stroke.</figcaption>
+<img src="assets/img/birthday.jpg" alt="Family having birthday party outside"/>
+<figcaption>Roland's 7th birthday and Tiana's first time outside since the stroke.
+</figcaption>
 </figure>
 
 You may have noticed my freshly shaved head in the photo. Tiana had to have a large portion of her hair removed for the surgery. Like any parent would, I wished for her suffering to have happened to me instead. Shaving my head was the only thing I way I could think of to share in her suffering without actually hurting myself. And it came with bonus giggles every time she looked at me over the following week or so. 
@@ -112,31 +116,35 @@ You may have noticed my freshly shaved head in the photo. Tiana had to have a la
 I had my first experience with 3D printing at RCH. I occasionally visited the Spiritual Care centre, where I met Paul, the coordinator. Paul is a 3D printing enthusiast, and his office was decorated with an assortment of sensory toys, lithophanes of his family and other items that he had 3D printed himself. When I introduced Tiana to him, he kindly gave her an articulating crystal dragon. I couldn’t figure out how it had been assembled, until Paul explained how the nature of additive 3D printing in layers from the bottom up allows for the creation of permanently interlocked pieces - something difficult to achieve using traditional manufacturing methods. I was intrigued by the possibilities.
 
 <figure>
-    <img src="assets/img/dragon.jpg" alt="A blue and purple 3D printed articulating crystal dragon"/>
-    <figcaption>3D printed articulated Crystal Dragon, gifted to Tiana during her stay at RCH</figcaption>
+<img src="assets/img/dragon.jpg" alt="A blue and purple 3D printed articulating crystal dragon"/>
+<figcaption>3D printed articulated Crystal Dragon, gifted to Tiana during her stay at RCH
+</figcaption>
 </figure>
 
 We were fortunate to be involved in the music therapy program at RCH, and Tiana always looked forward to her twice-weekly sessions. Her music therapist Jo even allowed us to borrow a keyboard so Tiana could play anytime in her room. Although I had to help by playing the left hand parts for her, it meant so much for her to be able to continue with it during her stay.
 
 <figure>
-    <img src="assets/img/music_therapy.png" alt="Five people playing various musical instruments"/>
-    <figcaption>Jamming during a music therapy session</figcaption>
+<img src="assets/img/music_therapy.png" alt="Five people playing various musical instruments"/>
+<figcaption>Jamming during a music therapy session
+</figcaption>
 </figure>
 
 The music therapy room was full of instruments for us to try, including a banana keyboard. Having such a variety of instruments available was great in getting Tiana to start using her left hand again to create music.
 
 <style>
-    .center {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-direction: column;
-    }
+.center {
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
 </style>
 
 <figure class="center">
-    <iframe width="400" height="300" src="https://www.youtube.com/embed/N46noUIJXD8" title="Tiana leaving the Royal Children's Hospital after spending 2.5 months recovering from a stroke" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <figcaption>Tiana walks out of Kelpie Ward at the end of her 2.5 month stay.</figcaption>
+<iframe width="400" height="300" src="https://www.youtube.com/embed/N46noUIJXD8" title="Tiana leaving the Royal Children's Hospital after spending 2.5 months recovering from a stroke" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+<figcaption>Tiana walks out of Kelpie Ward at the end of her 2.5 month stay.
+</figcaption>
 </figure>
 
 We took every opportunity we could for Tiana to practise walking, and our rehab doctor soon took notice of her amazing progress and brought her discharge date forward by two weeks. When the day finally arrived, watching her walk out of the ward to the cheers of her therapy team and the ward staff was one of our proudest moments.
