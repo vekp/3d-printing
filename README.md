@@ -191,7 +191,9 @@ In October 2023, I booked myself in for a safety induction at [Kathleen Syme Lib
 
 <details>
 
-<summary>Click to expand</summary>
+<summary>
+Click to expand
+</summary>
 
 ## Chin rest
 *To allow Tiana to play violin in comfort*
