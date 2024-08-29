@@ -16,7 +16,7 @@
 <details>
 
 <summary>
-    Click to expand
+Click to expand
 </summary>
 
 I am sharing my family's story in the hope that it will inspire those facing setbacks and challenges, educate them about the potential of maker technologies like 3D printing, and encourage them to seek out the support they need to learn new skills that can empower them to overcome their challenges, improve their lives, and achieve their goals.
@@ -33,16 +33,14 @@ The scan had identified an arteriovenous fistula (AVF) in Tiana's brain that thr
 
 <figure>
     <img src="assets/img/baby_rch.jpg" alt="Baby girl lying in hospital bed with bandaged head"/>
-    <figcaption>Tiana recovering at RCH after first major brain surgery.
-    </figcaption>
+    <figcaption>Tiana recovering at RCH after first major brain surgery.</figcaption>
 </figure>
 
 As we had hoped, the operation was a success, and after spending just a few days recovering in Cockatoo Ward, Tiana was back to her normal self at home.  
 
 <figure>
     <img src="assets/img/baby_bumbo.jpg" alt="Baby lying in hospital bed with bandaged head"/>
-    <figcaption>Tiana back at home.
-    </figcaption>
+    <figcaption>Tiana back at home.</figcaption>
 </figure>
 
 She had an impressive new scar that would eventually be mostly hidden by her hair, and she needed regular ongoing MRIs to monitor the blood vessels in her head, but otherwise led a pretty normal life, unaffected by and mostly unaware of the all the dramas that had occurred.
