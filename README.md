@@ -32,19 +32,19 @@ Tiana's medical journey started from before she was born. An antenatal ultrasoun
 The scan had identified an arteriovenous fistula (AVF) in Tiana's brain that threatened to haemorrhage, which could cause a stroke or death. She was placed under the care of neurosurgeon Dr Alison Wray at RCH. Dr Wray planned to wait until Tiana was 5 months old, then ligate the AVF surgically. She assured us that it was a relatively simple procedure, and after Googling her name and reading about some of her amazing work, we agreed to the operation. As terrifying as it was for us to put our tiny, precious daughter's life in the hands of someone else, we knew that she would be in the best of hands, in a brand new, world-class facility.
 
 <figure>
-    <img src="assets/img/baby_rch.jpg" alt="Baby girl lying in hospital bed with bandaged head"/>
-    <figcaption>
-    Tiana recovering at RCH after first major brain surgery.
-    </figcaption>
+<img src="assets/img/baby_rch.jpg" alt="Baby girl lying in hospital bed with bandaged head"/>
+<figcaption>
+Tiana recovering at RCH after first major brain surgery.
+</figcaption>
 </figure>
 
 As we had hoped, the operation was a success, and after spending just a few days recovering in Cockatoo Ward, Tiana was back to her normal self at home.  
 
 <figure>
-    <img src="assets/img/baby_bumbo.jpg" alt="Baby lying in hospital bed with bandaged head"/>
-    <figcaption>
-    Tiana back at home.
-    </figcaption>
+<img src="assets/img/baby_bumbo.jpg" alt="Baby lying in hospital bed with bandaged head"/>
+<figcaption>
+Tiana back at home.
+</figcaption>
 </figure>
 
 She had an impressive new scar that would eventually be mostly hidden by her hair, and she needed regular ongoing MRIs to monitor the blood vessels in her head, but otherwise led a pretty normal life, unaffected by and mostly unaware of the all the dramas that had occurred.
