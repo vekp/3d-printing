@@ -33,7 +33,8 @@ The scan had identified an arteriovenous fistula (AVF) in Tiana's brain that thr
 
 <figure>
     <img src="assets/img/baby_rch.jpg" alt="Baby girl lying in hospital bed with bandaged head"/>
-    <figcaption>Tiana recovering at RCH after first major brain surgery.
+    <figcaption>
+    Tiana recovering at RCH after first major brain surgery.
     </figcaption>
 </figure>
 
@@ -41,7 +42,8 @@ As we had hoped, the operation was a success, and after spending just a few days
 
 <figure>
     <img src="assets/img/baby_bumbo.jpg" alt="Baby lying in hospital bed with bandaged head"/>
-    <figcaption>Tiana back at home.
+    <figcaption>
+    Tiana back at home.
     </figcaption>
 </figure>
 
