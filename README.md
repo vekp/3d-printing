@@ -401,6 +401,11 @@ Learning to design and 3D print Tiana's violin modifications has made a huge dif
 
 # Resources
 
+<details>
+
+<summary>Click to expand
+</summary>
+
 ### [City of Melbourne Library Makerspaces](https://www.melbourne.vic.gov.au/makerspaces)
 3D printers and a scanner, laser cutters, vinyl cutters, heat presses, sewing machines - all free to use! Limited amounts of material also available for free. Learning is mostly self-directed, but friendly staff can point you in the right directed and assist where needed.
 
@@ -411,10 +416,36 @@ Popular free, easy to use 3D modelling web app. Design anything just by dragging
 Parametric CAD web app. Free tier is full-featured, but doesn't allow you to keep your designs private.
 
 ### [Youtube - Teaching Tech Onshape tutorials](https://www.youtube.com/playlist?list=PLGqRUdq5ULsMDOxmu10AGPDIOkzNYu7D7)
-Official Onshape tutorials drop you in the deep end, so I much preferred this series of tutorials from Teaching Tech for learning the basics.
+Official Onshape tutorials drop you in the deep end, so I preferred this series of tutorials from Teaching Tech for learning the basics.
+
+</details>
+
+# Media
+
+<details>
+
+<summary>Click to expand
+</summary>
+
+### 7NEWS
+[After her third stroke, Tiana, 11, had to re-learn how to eat and drink. This is her remarkable story.](https://7news.com.au/lifestyle/health-wellbeing/after-her-third-stroke-tiana-11-had-to-re-learn-how-to-eat-and-drink-this-is-her-remarkable-story--c-11532350)
+
+### The Age
+[Tiana had a stroke aged 10. Here’s how she learnt to play violin again](https://www.theage.com.au/national/victoria/tiana-had-a-stroke-aged-10-here-s-how-she-learnt-to-play-violin-again-20240106-p5evk9.html)  
+[(Apple News link)](https://apple.news/ABYdKc5ILRO6uNevAfUfSkA)
+
+### Stroke Foundation
+[Tiana’s stroke recovery music to her parents’ ears](https://strokefoundation.org.au/media-centre/media-releases/2023/08/tiana-s-stroke-recovery-music-to-her-parents-ears)  
+[Talented Tiana honoured with national award](https://strokefoundation.org.au/media-centre/media-releases/2024/05/talented-tiana-honoured-with-national-award)
+
+</details>
 
 # Acknowledgements
 
+<details>
+
+<summary>Click to expand
+</summary>
 There are so many people and organisations who have supported us, including:
 
 * The Royal Children's Hospital
@@ -427,3 +458,5 @@ There are so many people and organisations who have supported us, including:
 * University of Melbourne - Next Lab
 * Family
 * Friends
+
+</details>
