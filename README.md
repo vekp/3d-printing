@@ -441,6 +441,9 @@ Official Onshape tutorials drop you in the deep end, so I preferred this series 
 ### University of Melbourne
 [Creating a future in music for children with disabilities](https://www.unimelb.edu.au/newsroom/news/2023/december/creating-a-future-in-music-for-children-with-disabilities)
 
+### Channel 7
+[Violin duet performance at Good Friday Appeal 2025](https://www.youtube.com/watch?v=Ih0zYHuVcsI)
+
 </details>
 
 # Acknowledgements
