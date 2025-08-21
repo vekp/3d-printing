@@ -443,6 +443,7 @@ Official Onshape tutorials drop you in the deep end, so I preferred this series 
 
 ### Channel 7
 [Violin duet performance at Good Friday Appeal 2025](https://www.youtube.com/watch?v=Ih0zYHuVcsI)
+<iframe width="996" height="560" src="https://www.youtube.com/embed/Ih0zYHuVcsI" title="Tiana and Evangeline Victoria perform &quot;I See the Light&quot; (Tangled) at 2025 Good Friday Appeal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </details>
 
