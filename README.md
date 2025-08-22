@@ -467,6 +467,3 @@ There are so many people and organisations who have supported us, including:
 * Friends
 
 </details>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N46noUIJXD8?si=T2wL4-TTSEsivnQW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
